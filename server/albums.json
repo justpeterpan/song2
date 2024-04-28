@@ -1,0 +1,3502 @@
+[
+  {
+    "index": "1",
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "link": "https://en.wikipedia.org/wiki/What%27s_Going_On_(Marvin_Gaye_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/MarvinGayeWhat%27sGoingOnalbumcover.jpg/220px-MarvinGayeWhat%27sGoingOnalbumcover.jpg"
+  },
+  {
+    "index": "2",
+    "title": "Pet Sounds",
+    "artist": "The Beach Boys",
+    "link": "https://en.wikipedia.org/wiki/Pet_Sounds",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/PetSoundsCover.jpg/220px-PetSoundsCover.jpg"
+  },
+  {
+    "index": "3",
+    "title": "Blue",
+    "artist": "Joni Mitchell",
+    "link": "https://en.wikipedia.org/wiki/Blue_(Joni_Mitchell_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Bluealbumcover.jpg/220px-Bluealbumcover.jpg"
+  },
+  {
+    "index": "4",
+    "title": "Songs in the Key of Life",
+    "artist": "Stevie Wonder",
+    "link": "https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Life",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Songs_in_the_key_of_life.jpg/220px-Songs_in_the_key_of_life.jpg"
+  },
+  {
+    "index": "5",
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "link": "https://en.wikipedia.org/wiki/Abbey_Road",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Beatles_-_Abbey_Road.jpg/220px-Beatles_-_Abbey_Road.jpg"
+  },
+  {
+    "index": "6",
+    "title": "Nevermind",
+    "artist": "Nirvana",
+    "link": "https://en.wikipedia.org/wiki/Nevermind",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/NirvanaNevermindalbumcover.jpg/220px-NirvanaNevermindalbumcover.jpg"
+  },
+  {
+    "index": "7",
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "link": "https://en.wikipedia.org/wiki/Rumours_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/FMacRumours.PNG/220px-FMacRumours.PNG"
+  },
+  {
+    "index": "8",
+    "title": "Purple Rain",
+    "artist": "Prince and the Revolution",
+    "link": "https://en.wikipedia.org/wiki/Purple_Rain_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Princepurplerain.jpg/220px-Princepurplerain.jpg"
+  },
+  {
+    "index": "9",
+    "title": "Blood on the Tracks",
+    "artist": "Bob Dylan",
+    "link": "https://en.wikipedia.org/wiki/Blood_on_the_Tracks",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Bob_Dylan_-_Blood_on_the_Tracks.jpg/220px-Bob_Dylan_-_Blood_on_the_Tracks.jpg"
+  },
+  {
+    "index": "10",
+    "title": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill",
+    "link": "https://en.wikipedia.org/wiki/The_Miseducation_of_Lauryn_Hill",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/LaurynHillTheMiseducationofLaurynHillalbumcover.jpg/220px-LaurynHillTheMiseducationofLaurynHillalbumcover.jpg"
+  },
+  {
+    "index": "11",
+    "title": "Revolver",
+    "artist": "The Beatles",
+    "link": "https://en.wikipedia.org/wiki/Revolver_(Beatles_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Revolver_%28album_cover%29.jpg/220px-Revolver_%28album_cover%29.jpg"
+  },
+  {
+    "index": "12",
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "link": "https://en.wikipedia.org/wiki/Thriller_(Michael_Jackson_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Michael_Jackson_-_Thriller.png/220px-Michael_Jackson_-_Thriller.png"
+  },
+  {
+    "index": "13",
+    "title": "I Never Loved a Man the Way I Love You",
+    "artist": "Aretha Franklin",
+    "link": "https://en.wikipedia.org/wiki/I_Never_Loved_a_Man_the_Way_I_Love_You",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Aretha_Franklin_%E2%80%93_I_Never_Loved_a_Man_the_Way_I_Love_You.jpg/220px-Aretha_Franklin_%E2%80%93_I_Never_Loved_a_Man_the_Way_I_Love_You.jpg"
+  },
+  {
+    "index": "14",
+    "title": "Exile on Main St.",
+    "artist": "The Rolling Stones",
+    "link": "https://en.wikipedia.org/wiki/Exile_on_Main_St.",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/ExileMainSt.jpg/220px-ExileMainSt.jpg"
+  },
+  {
+    "index": "15",
+    "title": "It Takes a Nation of Millions to Hold Us Back",
+    "artist": "Public Enemy",
+    "link": "https://en.wikipedia.org/wiki/It_Takes_a_Nation_of_Millions_to_Hold_Us_Back",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/PublicEnemyItTakesaNationofMillionstoHoldUsBack.jpg/220px-PublicEnemyItTakesaNationofMillionstoHoldUsBack.jpg"
+  },
+  {
+    "index": "16",
+    "title": "London Calling",
+    "artist": "The Clash",
+    "link": "https://en.wikipedia.org/wiki/London_Calling",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/TheClashLondonCallingalbumcover.jpg/220px-TheClashLondonCallingalbumcover.jpg"
+  },
+  {
+    "index": "17",
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "link": "https://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/MBDTF_ALT.jpg/220px-MBDTF_ALT.jpg"
+  },
+  {
+    "index": "18",
+    "title": "Highway 61 Revisited",
+    "artist": "Bob Dylan",
+    "link": "https://en.wikipedia.org/wiki/Highway_61_Revisited",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Bob_Dylan_-_Highway_61_Revisited.jpg/220px-Bob_Dylan_-_Highway_61_Revisited.jpg"
+  },
+  {
+    "index": "19",
+    "title": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "link": "https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png/220px-Kendrick_Lamar_-_To_Pimp_a_Butterfly.png"
+  },
+  {
+    "index": "20",
+    "title": "Kid A",
+    "artist": "Radiohead",
+    "link": "https://en.wikipedia.org/wiki/Kid_A",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Radioheadkida.png/220px-Radioheadkida.png"
+  },
+  {
+    "index": "21",
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "link": "https://en.wikipedia.org/wiki/Born_to_Run",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Born_to_Run_%28Front_Cover%29.jpg/220px-Born_to_Run_%28Front_Cover%29.jpg"
+  },
+  {
+    "index": "22",
+    "title": "Ready to Die",
+    "artist": "The Notorious B.I.G.",
+    "link": "https://en.wikipedia.org/wiki/Ready_to_Die",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Ready_To_Die.jpg/220px-Ready_To_Die.jpg"
+  },
+  {
+    "index": "23",
+    "title": "The Velvet Underground & Nico",
+    "artist": "The Velvet Underground",
+    "link": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e4/Velvet_underground_album_cover_2.png"
+  },
+  {
+    "index": "24",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "artist": "The Beatles",
+    "link": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg/220px-Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg"
+  },
+  {
+    "index": "25",
+    "title": "Tapestry",
+    "artist": "Carole King",
+    "link": "https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Carole_King_-_Tapestry.jpg/220px-Carole_King_-_Tapestry.jpg"
+  },
+  {
+    "index": "26",
+    "title": "Horses",
+    "artist": "Patti Smith",
+    "link": "https://en.wikipedia.org/wiki/Horses_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/PattiSmithHorses.jpg/220px-PattiSmithHorses.jpg"
+  },
+  {
+    "index": "27",
+    "title": "Enter the Wu-Tang (36 Chambers)",
+    "artist": "Wu-Tang Clan",
+    "link": "https://en.wikipedia.org/wiki/Enter_the_Wu-Tang_(36_Chambers)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Wu-TangClanEntertheWu-Tangalbumcover.jpg/220px-Wu-TangClanEntertheWu-Tangalbumcover.jpg"
+  },
+  {
+    "index": "28",
+    "title": "Voodoo",
+    "artist": "D'Angelo",
+    "link": "https://en.wikipedia.org/wiki/Voodoo_(D%27Angelo_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Voodoo_UK.jpg/220px-Voodoo_UK.jpg"
+  },
+  {
+    "index": "29",
+    "title": "The Beatles",
+    "artist": "The Beatles",
+    "link": "https://en.wikipedia.org/wiki/The_Beatles_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/220px-TheBeatles68LP.jpg"
+  },
+  {
+    "index": "30",
+    "title": "Are You Experienced",
+    "artist": "The Jimi Hendrix Experience",
+    "link": "https://en.wikipedia.org/wiki/Are_You_Experienced",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Are_You_Experienced_-_US_cover-edit.jpg/220px-Are_You_Experienced_-_US_cover-edit.jpg"
+  },
+  {
+    "index": "31",
+    "title": "Kind of Blue",
+    "artist": "Miles Davis",
+    "link": "https://en.wikipedia.org/wiki/Kind_of_Blue",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/MilesDavisKindofBlue.jpg/220px-MilesDavisKindofBlue.jpg"
+  },
+  {
+    "index": "32",
+    "title": "Lemonade",
+    "artist": "Beyoncé",
+    "link": "https://en.wikipedia.org/wiki/Lemonade_(Beyonc%C3%A9_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png/220px-Beyonce_-_Lemonade_%28Official_Album_Cover%29.png"
+  },
+  {
+    "index": "33",
+    "title": "Back to Black",
+    "artist": "Amy Winehouse",
+    "link": "https://en.wikipedia.org/wiki/Back_to_Black",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Amy_Winehouse_-_Back_to_Black_%28US_and_Japan%29.png/220px-Amy_Winehouse_-_Back_to_Black_%28US_and_Japan%29.png"
+  },
+  {
+    "index": "34",
+    "title": "Innervisions",
+    "artist": "Stevie Wonder",
+    "link": "https://en.wikipedia.org/wiki/Innervisions",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Steviewonder_innervisions.jpg/220px-Steviewonder_innervisions.jpg"
+  },
+  {
+    "index": "35",
+    "title": "Rubber Soul",
+    "artist": "The Beatles",
+    "link": "https://en.wikipedia.org/wiki/Rubber_Soul",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Rubber_Soul.jpg/220px-Rubber_Soul.jpg"
+  },
+  {
+    "index": "36",
+    "title": "Off the Wall",
+    "artist": "Michael Jackson",
+    "link": "https://en.wikipedia.org/wiki/Off_the_Wall",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Off_the_wall.jpg/220px-Off_the_wall.jpg"
+  },
+  {
+    "index": "37",
+    "title": "The Chronic",
+    "artist": "Dr. Dre",
+    "link": "https://en.wikipedia.org/wiki/The_Chronic",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Dr.DreTheChronic.jpg/220px-Dr.DreTheChronic.jpg"
+  },
+  {
+    "index": "38",
+    "title": "Blonde on Blonde",
+    "artist": "Bob Dylan",
+    "link": "https://en.wikipedia.org/wiki/Blonde_on_Blonde",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Bob_Dylan_-_Blonde_on_Blonde.jpg/220px-Bob_Dylan_-_Blonde_on_Blonde.jpg"
+  },
+  {
+    "index": "39",
+    "title": "Remain in Light",
+    "artist": "Talking Heads",
+    "link": "https://en.wikipedia.org/wiki/Remain_in_Light",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/RILback.jpg/220px-RILback.jpg"
+  },
+  {
+    "index": "40",
+    "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    "artist": "David Bowie",
+    "link": "https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/ZiggyStardust.jpg/220px-ZiggyStardust.jpg"
+  },
+  {
+    "index": "41",
+    "title": "Let It Bleed",
+    "artist": "The Rolling Stones",
+    "link": "https://en.wikipedia.org/wiki/Let_It_Bleed",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/LetitbleedRS.jpg/220px-LetitbleedRS.jpg"
+  },
+  {
+    "index": "42",
+    "title": "OK Computer",
+    "artist": "Radiohead",
+    "link": "https://en.wikipedia.org/wiki/OK_Computer",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Radioheadokcomputer.png/220px-Radioheadokcomputer.png"
+  },
+  {
+    "index": "43",
+    "title": "The Low End Theory",
+    "artist": "A Tribe Called Quest",
+    "link": "https://en.wikipedia.org/wiki/The_Low_End_Theory",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/ATribeCalledQuestTheLowEndtheory.jpg/220px-ATribeCalledQuestTheLowEndtheory.jpg"
+  },
+  {
+    "index": "44",
+    "title": "Illmatic",
+    "artist": "Nas",
+    "link": "https://en.wikipedia.org/wiki/Illmatic",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/IllmaticNas.jpg/220px-IllmaticNas.jpg"
+  },
+  {
+    "index": "45",
+    "title": "Sign o' the Times",
+    "artist": "Prince",
+    "link": "https://en.wikipedia.org/wiki/Sign_o%27_the_Times",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Prince-SignOTheTimes.jpg/220px-Prince-SignOTheTimes.jpg"
+  },
+  {
+    "index": "46",
+    "title": "Graceland",
+    "artist": "Paul Simon",
+    "link": "https://en.wikipedia.org/wiki/Graceland_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Graceland_cover_-_Paul_Simon.jpg/220px-Graceland_cover_-_Paul_Simon.jpg"
+  },
+  {
+    "index": "47",
+    "title": "Ramones",
+    "artist": "Ramones",
+    "link": "https://en.wikipedia.org/wiki/Ramones_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Ramones_-_Ramones_cover.jpg/220px-Ramones_-_Ramones_cover.jpg"
+  },
+  {
+    "index": "48",
+    "title": "Exodus",
+    "artist": "Bob Marley and the Wailers",
+    "link": "https://en.wikipedia.org/wiki/Exodus_(Bob_Marley_and_the_Wailers_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Bob_Marley_and_the_Wailers_-_Exodus.png/220px-Bob_Marley_and_the_Wailers_-_Exodus.png"
+  },
+  {
+    "index": "49",
+    "title": "Aquemini",
+    "artist": "Outkast",
+    "link": "https://en.wikipedia.org/wiki/Aquemini",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/AqueminiOutKast.jpg/220px-AqueminiOutKast.jpg"
+  },
+  {
+    "index": "50",
+    "title": "The Blueprint",
+    "artist": "Jay-Z",
+    "link": "https://en.wikipedia.org/wiki/The_Blueprint",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/The_Blueprint.png/220px-The_Blueprint.png"
+  },
+  {
+    "index": "51",
+    "title": "The Great Twenty-Eight",
+    "artist": "Chuck Berry",
+    "link": "https://en.wikipedia.org/wiki/The_Great_Twenty-Eight",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/The_Great_Twenty-Eight_SDE.jpg/220px-The_Great_Twenty-Eight_SDE.jpg"
+  },
+  {
+    "index": "52",
+    "title": "Station to Station",
+    "artist": "David Bowie",
+    "link": "https://en.wikipedia.org/wiki/Station_to_Station",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/David_Bowie_Station_to_Station_2010_artwork.jpg/220px-David_Bowie_Station_to_Station_2010_artwork.jpg"
+  },
+  {
+    "index": "53",
+    "title": "Electric Ladyland",
+    "artist": "The Jimi Hendrix Experience",
+    "link": "https://en.wikipedia.org/wiki/Electric_Ladyland",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Jimi_Hendrix_-_Electric_Ladyland.jpg/220px-Jimi_Hendrix_-_Electric_Ladyland.jpg"
+  },
+  {
+    "index": "54",
+    "title": "Star Time",
+    "artist": "James Brown",
+    "link": "https://en.wikipedia.org/wiki/Star_Time_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/James_Brown_Star_Time.jpg/220px-James_Brown_Star_Time.jpg"
+  },
+  {
+    "index": "55",
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "link": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Dark_Side_of_the_Moon.png/220px-Dark_Side_of_the_Moon.png"
+  },
+  {
+    "index": "56",
+    "title": "Exile in Guyville",
+    "artist": "Liz Phair",
+    "link": "https://en.wikipedia.org/wiki/Exile_in_Guyville",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Liz_Phair_-_Exile_in_Guyville.jpg/220px-Liz_Phair_-_Exile_in_Guyville.jpg"
+  },
+  {
+    "index": "57",
+    "title": "The Band",
+    "artist": "The Band",
+    "link": "https://en.wikipedia.org/wiki/The_Band_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/The_Band_%28album%29_coverart.jpg/220px-The_Band_%28album%29_coverart.jpg"
+  },
+  {
+    "index": "58",
+    "title": "Led Zeppelin IV",
+    "artist": "Led Zeppelin",
+    "link": "https://en.wikipedia.org/wiki/Led_Zeppelin_IV",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg/220px-Led_Zeppelin_-_Led_Zeppelin_IV.jpg"
+  },
+  {
+    "index": "59",
+    "title": "Talking Book",
+    "artist": "Stevie Wonder",
+    "link": "https://en.wikipedia.org/wiki/Talking_Book",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Talking_Book.jpg/220px-Talking_Book.jpg"
+  },
+  {
+    "index": "60",
+    "title": "Astral Weeks",
+    "artist": "Van Morrison",
+    "link": "https://en.wikipedia.org/wiki/Astral_Weeks",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/VanMorrisonAstralWeeks.jpg/220px-VanMorrisonAstralWeeks.jpg"
+  },
+  {
+    "index": "61",
+    "title": "Paid in Full",
+    "artist": "Eric B. & Rakim",
+    "link": "https://en.wikipedia.org/wiki/Paid_in_Full_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/RakimPIF.jpg/220px-RakimPIF.jpg"
+  },
+  {
+    "index": "62",
+    "title": "Appetite for Destruction",
+    "artist": "Guns N' Roses",
+    "link": "https://en.wikipedia.org/wiki/Appetite_for_Destruction",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Afd_locked_n_loaded.png/220px-Afd_locked_n_loaded.png"
+  },
+  {
+    "index": "63",
+    "title": "Aja",
+    "artist": "Steely Dan",
+    "link": "https://en.wikipedia.org/wiki/Aja_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Aja_album_cover.jpg/220px-Aja_album_cover.jpg"
+  },
+  {
+    "index": "64",
+    "title": "Stankonia",
+    "artist": "Outkast",
+    "link": "https://en.wikipedia.org/wiki/Stankonia",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/OutKast_-_Stankonia.JPG/220px-OutKast_-_Stankonia.JPG"
+  },
+  {
+    "index": "65",
+    "title": "Live at the Apollo",
+    "artist": "James Brown",
+    "link": "https://en.wikipedia.org/wiki/Live_at_the_Apollo_(1963_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/James_Brown-Live_at_the_Apollo_%28album_cover%29.jpg/220px-James_Brown-Live_at_the_Apollo_%28album_cover%29.jpg"
+  },
+  {
+    "index": "66",
+    "title": "A Love Supreme",
+    "artist": "John Coltrane",
+    "link": "https://en.wikipedia.org/wiki/A_Love_Supreme",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/John_Coltrane_-_A_Love_Supreme.jpg/220px-John_Coltrane_-_A_Love_Supreme.jpg"
+  },
+  {
+    "index": "67",
+    "title": "Reasonable Doubt",
+    "artist": "Jay-Z",
+    "link": "https://en.wikipedia.org/wiki/Reasonable_Doubt_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Reasonable_Doubt_New.jpg/220px-Reasonable_Doubt_New.jpg"
+  },
+  {
+    "index": "68",
+    "title": "Hounds of Love",
+    "artist": "Kate Bush",
+    "link": "https://en.wikipedia.org/wiki/Hounds_of_Love",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Katebushhoundsoflove.png/220px-Katebushhoundsoflove.png"
+  },
+  {
+    "index": "69",
+    "title": "Jagged Little Pill",
+    "artist": "Alanis Morissette",
+    "link": "https://en.wikipedia.org/wiki/Jagged_Little_Pill",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Alanis_Morissette_-_Jagged_Little_Pill.jpg/220px-Alanis_Morissette_-_Jagged_Little_Pill.jpg"
+  },
+  {
+    "index": "70",
+    "title": "Straight Outta Compton",
+    "artist": "N.W.A",
+    "link": "https://en.wikipedia.org/wiki/Straight_Outta_Compton",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/StraightOuttaComptonN.W.A..jpg/220px-StraightOuttaComptonN.W.A..jpg"
+  },
+  {
+    "index": "71",
+    "title": "Renaissance",
+    "artist": "Beyonce",
+    "link": "https://en.wikipedia.org/wiki/Renaissance_(Beyonce_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Renaissance_LP_Cover_Art.png/220px-Renaissance_LP_Cover_Art.png"
+  },
+  {
+    "index": "72",
+    "title": "Harvest",
+    "artist": "Neil Young",
+    "link": "https://en.wikipedia.org/wiki/Harvest_(Neil_Young_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/NeilYoungHarvestalbumcover.jpg/220px-NeilYoungHarvestalbumcover.jpg"
+  },
+  {
+    "index": "73",
+    "title": "Loveless",
+    "artist": "My Bloody Valentine",
+    "link": "https://en.wikipedia.org/wiki/Loveless_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/My_Bloody_Valentine_-_Loveless.png/220px-My_Bloody_Valentine_-_Loveless.png"
+  },
+  {
+    "index": "74",
+    "title": "The College Dropout",
+    "artist": "Kanye West",
+    "link": "https://en.wikipedia.org/wiki/The_College_Dropout",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Kanyewest_collegedropout.jpg/220px-Kanyewest_collegedropout.jpg"
+  },
+  {
+    "index": "75",
+    "title": "Lady Soul",
+    "artist": "Aretha Franklin",
+    "link": "https://en.wikipedia.org/wiki/Lady_Soul",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/ArethaFranklinLadySoul.jpg/220px-ArethaFranklinLadySoul.jpg"
+  },
+  {
+    "index": "76",
+    "title": "Super Fly",
+    "artist": "Curtis Mayfield",
+    "link": "https://en.wikipedia.org/wiki/Super_Fly_(soundtrack)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Superfly25.jpg/220px-Superfly25.jpg"
+  },
+  {
+    "index": "77",
+    "title": "Who's Next",
+    "artist": "The Who",
+    "link": "https://en.wikipedia.org/wiki/Who%27s_Next",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Whosnext.jpg/220px-Whosnext.jpg"
+  },
+  {
+    "index": "78",
+    "title": "The Sun Sessions",
+    "artist": "Elvis Presley",
+    "link": "https://en.wikipedia.org/wiki/The_Sun_Sessions",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Elvis_Presley_The_Sun_Sessions_LP_Cover.jpg/220px-Elvis_Presley_The_Sun_Sessions_LP_Cover.jpg"
+  },
+  {
+    "index": "79",
+    "title": "Blonde",
+    "artist": "Frank Ocean",
+    "link": "https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Frank_Ocean_Blonde_2.jpg/220px-Frank_Ocean_Blonde_2.jpg"
+  },
+  {
+    "index": "80",
+    "title": "Never Mind the Bollocks, Here's the Sex Pistols",
+    "artist": "Sex Pistols",
+    "link": "https://en.wikipedia.org/wiki/Never_Mind_the_Bollocks,_Here%27s_the_Sex_Pistols",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Never_Mind_the_Bollocks%2C_Here%27s_the_Sex_Pistols.png/220px-Never_Mind_the_Bollocks%2C_Here%27s_the_Sex_Pistols.png"
+  },
+  {
+    "index": "81",
+    "title": "Beyoncé",
+    "artist": "Beyoncé",
+    "link": "https://en.wikipedia.org/wiki/Beyonc%C3%A9_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/220px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png"
+  },
+  {
+    "index": "82",
+    "title": "There's a Riot Goin' On",
+    "artist": "Sly and the Family Stone",
+    "link": "https://en.wikipedia.org/wiki/There%27s_a_Riot_Goin%27_On",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Slyfam-riot2.jpg/220px-Slyfam-riot2.jpg"
+  },
+  {
+    "index": "83",
+    "title": "Dusty in Memphis",
+    "artist": "Dusty Springfield",
+    "link": "https://en.wikipedia.org/wiki/Dusty_in_Memphis",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/4f/Dusty_Springfield_-_Dusty_In_Memphis_%28UK%29.jpg"
+  },
+  {
+    "index": "84",
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "link": "https://en.wikipedia.org/wiki/Back_in_Black",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ACDC_Back_in_Black_cover.svg/220px-ACDC_Back_in_Black_cover.svg.png"
+  },
+  {
+    "index": "85",
+    "title": "John Lennon/Plastic Ono Band",
+    "artist": "John Lennon",
+    "link": "https://en.wikipedia.org/wiki/John_Lennon/Plastic_Ono_Band",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/JLPOBCover.jpg/220px-JLPOBCover.jpg"
+  },
+  {
+    "index": "86",
+    "title": "The Doors",
+    "artist": "The Doors",
+    "link": "https://en.wikipedia.org/wiki/The_Doors_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/TheDoorsTheDoorsalbumcover.jpg/220px-TheDoorsTheDoorsalbumcover.jpg"
+  },
+  {
+    "index": "87",
+    "title": "Bitches Brew",
+    "artist": "Miles Davis",
+    "link": "https://en.wikipedia.org/wiki/Bitches_Brew",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Bitches_brew.jpg/220px-Bitches_brew.jpg"
+  },
+  {
+    "index": "88",
+    "title": "Hunky Dory",
+    "artist": "David Bowie",
+    "link": "https://en.wikipedia.org/wiki/Hunky_Dory",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/David_Bowie_-_Hunky_Dory.jpg/220px-David_Bowie_-_Hunky_Dory.jpg"
+  },
+  {
+    "index": "89",
+    "title": "Baduizm",
+    "artist": "Erykah Badu",
+    "link": "https://en.wikipedia.org/wiki/Baduizm",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/BaduizmErykah.jpg/220px-BaduizmErykah.jpg"
+  },
+  {
+    "index": "90",
+    "title": "After the Gold Rush",
+    "artist": "Neil Young",
+    "link": "https://en.wikipedia.org/wiki/After_the_Gold_Rush",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/After_the_Gold_Rush.jpg/220px-After_the_Gold_Rush.jpg"
+  },
+  {
+    "index": "91",
+    "title": "Darkness on the Edge of Town",
+    "artist": "Bruce Springsteen",
+    "link": "https://en.wikipedia.org/wiki/Darkness_on_the_Edge_of_Town",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/BruceSpringsteenDarknessontheEdgeofTown.jpg/220px-BruceSpringsteenDarknessontheEdgeofTown.jpg"
+  },
+  {
+    "index": "92",
+    "title": "Axis: Bold as Love",
+    "artist": "The Jimi Hendrix Experience",
+    "link": "https://en.wikipedia.org/wiki/Axis:_Bold_as_Love",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Axiscover.jpg/220px-Axiscover.jpg"
+  },
+  {
+    "index": "93",
+    "title": "Supa Dupa Fly",
+    "artist": "Missy Elliott",
+    "link": "https://en.wikipedia.org/wiki/Supa_Dupa_Fly",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Missy_Elliott_Supa_Dupa_Fly.jpg/220px-Missy_Elliott_Supa_Dupa_Fly.jpg"
+  },
+  {
+    "index": "94",
+    "title": "Fun House",
+    "artist": "The Stooges",
+    "link": "https://en.wikipedia.org/wiki/Fun_House_(The_Stooges_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/StoogesFunHouse.jpg/220px-StoogesFunHouse.jpg"
+  },
+  {
+    "index": "95",
+    "title": "Take Care",
+    "artist": "Drake",
+    "link": "https://en.wikipedia.org/wiki/Take_Care_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Drake_-_Take_Care_cover.jpg/220px-Drake_-_Take_Care_cover.jpg"
+  },
+  {
+    "index": "96",
+    "title": "Automatic for the People",
+    "artist": "R.E.M.",
+    "link": "https://en.wikipedia.org/wiki/Automatic_for_the_People",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/R.E.M._-_Automatic_for_the_People.jpg/220px-R.E.M._-_Automatic_for_the_People.jpg"
+  },
+  {
+    "index": "97",
+    "title": "Master of Puppets",
+    "artist": "Metallica",
+    "link": "https://en.wikipedia.org/wiki/Master_of_Puppets",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Metallica_-_Master_of_Puppets_cover.jpg/220px-Metallica_-_Master_of_Puppets_cover.jpg"
+  },
+  {
+    "index": "98",
+    "title": "Car Wheels on a Gravel Road",
+    "artist": "Lucinda Williams",
+    "link": "https://en.wikipedia.org/wiki/Car_Wheels_on_a_Gravel_Road",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/CarWheelson_aGravelRoad.jpg/220px-CarWheelson_aGravelRoad.jpg"
+  },
+  {
+    "index": "99",
+    "title": "Red",
+    "artist": "Taylor Swift",
+    "link": "https://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Taylor_Swift_-_Red.png/220px-Taylor_Swift_-_Red.png"
+  },
+  {
+    "index": "100",
+    "title": "Music from Big Pink",
+    "artist": "The Band",
+    "link": "https://en.wikipedia.org/wiki/Music_from_Big_Pink",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Bigpink.jpg/220px-Bigpink.jpg"
+  },
+  {
+    "index": "101",
+    "title": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "link": "https://en.wikipedia.org/wiki/Led_Zeppelin_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png/220px-Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png"
+  },
+  {
+    "index": "102",
+    "title": "The Clash",
+    "artist": "The Clash",
+    "link": "https://en.wikipedia.org/wiki/The_Clash_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/The_Clash_UK.jpg/220px-The_Clash_UK.jpg"
+  },
+  {
+    "index": "103",
+    "title": "3 Feet High and Rising",
+    "artist": "De La Soul",
+    "link": "https://en.wikipedia.org/wiki/3_Feet_High_and_Rising",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/De_La_Soul_-_3_Feet_High_and_Rising_Cover.jpeg/220px-De_La_Soul_-_3_Feet_High_and_Rising_Cover.jpeg"
+  },
+  {
+    "index": "104",
+    "title": "Sticky Fingers",
+    "artist": "The Rolling Stones",
+    "link": "https://en.wikipedia.org/wiki/Sticky_Fingers",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/RS_StickyF-Esp71.jpg/220px-RS_StickyF-Esp71.jpg"
+  },
+  {
+    "index": "105",
+    "title": "At Fillmore East",
+    "artist": "The Allman Brothers Band",
+    "link": "https://en.wikipedia.org/wiki/At_Fillmore_East",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/AllmanBrothersBandAtFillmoreEast.jpg/220px-AllmanBrothersBandAtFillmoreEast.jpg"
+  },
+  {
+    "index": "106",
+    "title": "Live Through This",
+    "artist": "Hole",
+    "link": "https://en.wikipedia.org/wiki/Live_Through_This",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Hole_-_Live_Through_This.png/220px-Hole_-_Live_Through_This.png"
+  },
+  {
+    "index": "107",
+    "title": "Marquee Moon",
+    "artist": "Television",
+    "link": "https://en.wikipedia.org/wiki/Marquee_Moon",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Marquee_moon_album_cover.jpg/220px-Marquee_moon_album_cover.jpg"
+  },
+  {
+    "index": "108",
+    "title": "When the Pawn...",
+    "artist": "Fiona Apple",
+    "link": "https://en.wikipedia.org/wiki/When_the_Pawn...",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/When_The_Pawn_2020_Vinyl_Cover.png/220px-When_The_Pawn_2020_Vinyl_Cover.png"
+  },
+  {
+    "index": "109",
+    "title": "Transformer",
+    "artist": "Lou Reed",
+    "link": "https://en.wikipedia.org/wiki/Transformer_(Lou_Reed_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Loureedtransformer.jpeg/220px-Loureedtransformer.jpeg"
+  },
+  {
+    "index": "110",
+    "title": "Court and Spark",
+    "artist": "Joni Mitchell",
+    "link": "https://en.wikipedia.org/wiki/Court_and_Spark",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Courtandspark.jpeg/220px-Courtandspark.jpeg"
+  },
+  {
+    "index": "111",
+    "title": "Control",
+    "artist": "Janet Jackson",
+    "link": "https://en.wikipedia.org/wiki/Control_(Janet_Jackson_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Janet_Jackson_-_Control.png/220px-Janet_Jackson_-_Control.png"
+  },
+  {
+    "index": "112",
+    "title": "Goodbye Yellow Brick Road",
+    "artist": "Elton John",
+    "link": "https://en.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Elton_John_-_Goodbye_Yellow_Brick_Road.jpg/220px-Elton_John_-_Goodbye_Yellow_Brick_Road.jpg"
+  },
+  {
+    "index": "113",
+    "title": "The Queen Is Dead",
+    "artist": "The Smiths",
+    "link": "https://en.wikipedia.org/wiki/The_Queen_Is_Dead",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/The-Queen-is-Dead-cover.png/220px-The-Queen-is-Dead-cover.png"
+  },
+  {
+    "index": "114",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "link": "https://en.wikipedia.org/wiki/Is_This_It",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/The_Strokes_-_Ist_Tis_It_US_cover.png/220px-The_Strokes_-_Ist_Tis_It_US_cover.png"
+  },
+  {
+    "index": "115",
+    "title": "Good Kid, M.A.A.D City",
+    "artist": "Kendrick Lamar",
+    "link": "https://en.wikipedia.org/wiki/Good_Kid,_M.A.A.D_City",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/KendrickLamarGKMCDeluxe.jpg/220px-KendrickLamarGKMCDeluxe.jpg"
+  },
+  {
+    "index": "116",
+    "title": "Disintegration",
+    "artist": "The Cure",
+    "link": "https://en.wikipedia.org/wiki/Disintegration_(The_Cure_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/CureDisintegration.jpg/220px-CureDisintegration.jpg"
+  },
+  {
+    "index": "117",
+    "title": "Late Registration",
+    "artist": "Kanye West",
+    "link": "https://en.wikipedia.org/wiki/Late_Registration",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Late_registration_cd_cover.jpg/220px-Late_registration_cd_cover.jpg"
+  },
+  {
+    "index": "118",
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "link": "https://en.wikipedia.org/wiki/Hotel_California_(Eagles_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Hotelcalifornia.jpg/220px-Hotelcalifornia.jpg"
+  },
+  {
+    "index": "119",
+    "title": "Stand!",
+    "artist": "Sly and the Family Stone",
+    "link": "https://en.wikipedia.org/wiki/Stand!",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Stand-slyfam.jpg/220px-Stand-slyfam.jpg"
+  },
+  {
+    "index": "120",
+    "title": "Moondance",
+    "artist": "Van Morrison",
+    "link": "https://en.wikipedia.org/wiki/Moondance",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/VanMorrisonMoondance.jpg/220px-VanMorrisonMoondance.jpg"
+  },
+  {
+    "index": "121",
+    "title": "This Year's Model",
+    "artist": "Elvis Costello",
+    "link": "https://en.wikipedia.org/wiki/This_Year%27s_Model",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Elvis_Costello_Spanish_Model.jpg/220px-Elvis_Costello_Spanish_Model.jpg"
+  },
+  {
+    "index": "122",
+    "title": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "link": "https://en.wikipedia.org/wiki/The_Downward_Spiral",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Cover_of_%27The_Downward_Spiral_%28Deluxe_Edition%29%27_by_Nine_Inch_Nails.jpg/220px-Cover_of_%27The_Downward_Spiral_%28Deluxe_Edition%29%27_by_Nine_Inch_Nails.jpg"
+  },
+  {
+    "index": "123",
+    "title": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "link": "https://en.wikipedia.org/wiki/Led_Zeppelin_II",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Led_Zeppelin_-_Led_Zeppelin_II.jpg/220px-Led_Zeppelin_-_Led_Zeppelin_II.jpg"
+  },
+  {
+    "index": "124",
+    "title": "Achtung Baby",
+    "artist": "U2",
+    "link": "https://en.wikipedia.org/wiki/Achtung_Baby",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Achtung_Baby.png/220px-Achtung_Baby.png"
+  },
+  {
+    "index": "125",
+    "title": "Paul's Boutique",
+    "artist": "Beastie Boys",
+    "link": "https://en.wikipedia.org/wiki/Paul%27s_Boutique",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Beastie_Boys_-_Paul%27s_Boutique.png/220px-Beastie_Boys_-_Paul%27s_Boutique.png"
+  },
+  {
+    "index": "126",
+    "title": "My Life",
+    "artist": "Mary J. Blige",
+    "link": "https://en.wikipedia.org/wiki/My_Life_(Mary_J._Blige_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Mary_J_Blige_album_cover_My_Life.jpg/220px-Mary_J_Blige_album_cover_My_Life.jpg"
+  },
+  {
+    "index": "127",
+    "title": "Modern Sounds in Country and Western Music",
+    "artist": "Ray Charles",
+    "link": "https://en.wikipedia.org/wiki/Modern_Sounds_in_Country_and_Western_Music",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/ModernSoundsInC%26WMusic.jpg/220px-ModernSoundsInC%26WMusic.jpg"
+  },
+  {
+    "index": "128",
+    "title": "A Night at the Opera",
+    "artist": "Queen",
+    "link": "https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Queen_A_Night_At_The_Opera.png/220px-Queen_A_Night_At_The_Opera.png"
+  },
+  {
+    "index": "129",
+    "title": "The Wall",
+    "artist": "Pink Floyd",
+    "link": "https://en.wikipedia.org/wiki/The_Wall",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/PinkFloydWallCoverOriginalNoText.jpg/220px-PinkFloydWallCoverOriginalNoText.jpg"
+  },
+  {
+    "index": "130",
+    "title": "1999",
+    "artist": "Prince",
+    "link": "https://en.wikipedia.org/wiki/1999_(Prince_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Prince_-1999.jpg/220px-Prince_-1999.jpg"
+  },
+  {
+    "index": "131",
+    "title": "Dummy",
+    "artist": "Portishead",
+    "link": "https://en.wikipedia.org/wiki/Dummy_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Portishead_-_Dummy.png/220px-Portishead_-_Dummy.png"
+  },
+  {
+    "index": "132",
+    "title": "40 Greatest Hits",
+    "artist": "Hank Williams",
+    "link": "https://en.wikipedia.org/wiki/40_Greatest_Hits_(Hank_Williams_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/40_Greatest_Hits_%28Hank_Williams%2C_Sr._album%29.jpeg/220px-40_Greatest_Hits_%28Hank_Williams%2C_Sr._album%29.jpeg"
+  },
+  {
+    "index": "133",
+    "title": "Hejira",
+    "artist": "Joni Mitchell",
+    "link": "https://en.wikipedia.org/wiki/Hejira_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Hejira_cover.jpg/220px-Hejira_cover.jpg"
+  },
+  {
+    "index": "134",
+    "title": "The Score",
+    "artist": "Fugees",
+    "link": "https://en.wikipedia.org/wiki/The_Score_(Fugees_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Fugees_-_The_Score.png/220px-Fugees_-_The_Score.png"
+  },
+  {
+    "index": "135",
+    "title": "The Joshua Tree",
+    "artist": "U2",
+    "link": "https://en.wikipedia.org/wiki/The_Joshua_Tree",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/The_Joshua_Tree.png/220px-The_Joshua_Tree.png"
+  },
+  {
+    "index": "136",
+    "title": "Maggot Brain",
+    "artist": "Funkadelic",
+    "link": "https://en.wikipedia.org/wiki/Maggot_Brain",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Maggot_Brain_%28Funkadelic_album_-_cover_art%29.jpg/220px-Maggot_Brain_%28Funkadelic_album_-_cover_art%29.jpg"
+  },
+  {
+    "index": "137",
+    "title": "21",
+    "artist": "Adele",
+    "link": "https://en.wikipedia.org/wiki/21_(Adele_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Adele_-_21.png/220px-Adele_-_21.png"
+  },
+  {
+    "index": "138",
+    "title": "The Immaculate Collection",
+    "artist": "Madonna",
+    "link": "https://en.wikipedia.org/wiki/The_Immaculate_Collection",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Madonna_-_The_Immaculate_Collection.png/220px-Madonna_-_The_Immaculate_Collection.png"
+  },
+  {
+    "index": "139",
+    "title": "Paranoid",
+    "artist": "Black Sabbath",
+    "link": "https://en.wikipedia.org/wiki/Paranoid_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Black_Sabbath_-_Paranoid.jpg/220px-Black_Sabbath_-_Paranoid.jpg"
+  },
+  {
+    "index": "140",
+    "title": "Catch a Fire",
+    "artist": "Bob Marley and the Wailers",
+    "link": "https://en.wikipedia.org/wiki/Catch_a_Fire",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Thewailerscatchafire.jpg/220px-Thewailerscatchafire.jpg"
+  },
+  {
+    "index": "141",
+    "title": "Doolittle",
+    "artist": "Pixies",
+    "link": "https://en.wikipedia.org/wiki/Doolittle_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pixies-Doolittle.jpg/220px-Pixies-Doolittle.jpg"
+  },
+  {
+    "index": "142",
+    "title": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen",
+    "link": "https://en.wikipedia.org/wiki/Born_in_the_U.S.A.",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/BruceBorn1984.JPG/220px-BruceBorn1984.JPG"
+  },
+  {
+    "index": "143",
+    "title": "The Velvet Underground",
+    "artist": "The Velvet Underground",
+    "link": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Velvetundergroundthirdalbum.jpg/220px-Velvetundergroundthirdalbum.jpg"
+  },
+  {
+    "index": "144",
+    "title": "Physical Graffiti",
+    "artist": "Led Zeppelin",
+    "link": "https://en.wikipedia.org/wiki/Physical_Graffiti",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Led_Zeppelin_-_Physical_Graffiti.jpg/220px-Led_Zeppelin_-_Physical_Graffiti.jpg"
+  },
+  {
+    "index": "145",
+    "title": "The Marshall Mathers LP",
+    "artist": "Eminem",
+    "link": "https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/The_Marshall_Mathers_LP_limited_edition_cover.png/220px-The_Marshall_Mathers_LP_limited_edition_cover.png"
+  },
+  {
+    "index": "146",
+    "title": "Parallel Lines",
+    "artist": "Blondie",
+    "link": "https://en.wikipedia.org/wiki/Parallel_Lines",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Blondie_-_Parallel_Lines.png/220px-Blondie_-_Parallel_Lines.png"
+  },
+  {
+    "index": "147",
+    "title": "Grace",
+    "artist": "Jeff Buckley",
+    "link": "https://en.wikipedia.org/wiki/Grace_(Jeff_Buckley_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Jeff_Buckley_grace.jpg/220px-Jeff_Buckley_grace.jpg"
+  },
+  {
+    "index": "148",
+    "title": "Channel Orange",
+    "artist": "Frank Ocean",
+    "link": "https://en.wikipedia.org/wiki/Channel_Orange",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Channel_ORANGE.jpg/220px-Channel_ORANGE.jpg"
+  },
+  {
+    "index": "149",
+    "title": "John Prine",
+    "artist": "John Prine",
+    "link": "https://en.wikipedia.org/wiki/John_Prine_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/John_Prine_self-titled.jpg/220px-John_Prine_self-titled.jpg"
+  },
+  {
+    "index": "150",
+    "title": "Nebraska",
+    "artist": "Bruce Springsteen",
+    "link": "https://en.wikipedia.org/wiki/Nebraska_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Bruce_Springsteen_-_Nebraska.jpg/220px-Bruce_Springsteen_-_Nebraska.jpg"
+  },
+  {
+    "index": "151",
+    "title": "Faith",
+    "artist": "George Michael",
+    "link": "https://en.wikipedia.org/wiki/Faith_(George_Michael_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/George_Michael_-_Faith.png/220px-George_Michael_-_Faith.png"
+  },
+  {
+    "index": "152",
+    "title": "Pretenders",
+    "artist": "The Pretenders",
+    "link": "https://en.wikipedia.org/wiki/Pretenders_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Pretenders_album.jpg/220px-Pretenders_album.jpg"
+  },
+  {
+    "index": "153",
+    "title": "Rid of Me",
+    "artist": "PJ Harvey",
+    "link": "https://en.wikipedia.org/wiki/Rid_of_Me",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Rid_of_Me.jpg/220px-Rid_of_Me.jpg"
+  },
+  {
+    "index": "154",
+    "title": "Amazing Grace",
+    "artist": "Aretha Franklin",
+    "link": "https://en.wikipedia.org/wiki/Amazing_Grace_(Aretha_Franklin_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/ArethaAmazingGrace.JPG/220px-ArethaAmazingGrace.JPG"
+  },
+  {
+    "index": "155",
+    "title": "The Black Album",
+    "artist": "Jay-Z",
+    "link": "https://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Jay-Z_-_The_Black_Album.png/220px-Jay-Z_-_The_Black_Album.png"
+  },
+  {
+    "index": "156",
+    "title": "Let It Be",
+    "artist": "The Replacements",
+    "link": "https://en.wikipedia.org/wiki/Let_It_Be_(The_Replacements_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/The_Replacements_-_Let_It_Be_cover.jpg/220px-The_Replacements_-_Let_It_Be_cover.jpg"
+  },
+  {
+    "index": "157",
+    "title": "(What's the Story) Morning Glory?",
+    "artist": "Oasis",
+    "link": "https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Morning_Glory_%28singles_box%29.jpg/220px-Morning_Glory_%28singles_box%29.jpg"
+  },
+  {
+    "index": "158",
+    "title": "Mama's Gun",
+    "artist": "Erykah Badu",
+    "link": "https://en.wikipedia.org/wiki/Mama%27s_Gun",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Erykah_Badu_-_Mama%27s_Gun.jpg/220px-Erykah_Badu_-_Mama%27s_Gun.jpg"
+  },
+  {
+    "index": "159",
+    "title": "Synchronicity",
+    "artist": "The Police",
+    "link": "https://en.wikipedia.org/wiki/Synchronicity_(The_Police_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Police-album-synchronicity.jpg/220px-Police-album-synchronicity.jpg"
+  },
+  {
+    "index": "160",
+    "title": "Ten",
+    "artist": "Pearl Jam",
+    "link": "https://en.wikipedia.org/wiki/Ten_(Pearl_Jam_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Pearl_Jam_Ten_Alt_Cover.jpg/220px-Pearl_Jam_Ten_Alt_Cover.jpg"
+  },
+  {
+    "index": "161",
+    "title": "Crosby, Stills & Nash",
+    "artist": "Crosby, Stills & Nash",
+    "link": "https://en.wikipedia.org/wiki/Crosby,_Stills_%26_Nash_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Crosbystillsandnash.jpg/220px-Crosbystillsandnash.jpg"
+  },
+  {
+    "index": "162",
+    "title": "Different Class",
+    "artist": "Pulp",
+    "link": "https://en.wikipedia.org/wiki/Different_Class",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Pulp_-_Different_Class.PNG/220px-Pulp_-_Different_Class.PNG"
+  },
+  {
+    "index": "163",
+    "title": "Saturday Night Fever",
+    "artist": "Various artists",
+    "link": "https://en.wikipedia.org/wiki/Saturday_Night_Fever_(soundtrack)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/TheBeeGeesSaturdayNightFeveralbumcover.jpg/220px-TheBeeGeesSaturdayNightFeveralbumcover.jpg"
+  },
+  {
+    "index": "164",
+    "title": "At Folsom Prison",
+    "artist": "Johnny Cash",
+    "link": "https://en.wikipedia.org/wiki/At_Folsom_Prison",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Johnny_Cash_At_Folsom_Prison.jpg/220px-Johnny_Cash_At_Folsom_Prison.jpg"
+  },
+  {
+    "index": "165",
+    "title": "Murmur",
+    "artist": "R.E.M.",
+    "link": "https://en.wikipedia.org/wiki/Murmur_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/R.E.M._-_Murmur.jpg/220px-R.E.M._-_Murmur.jpg"
+  },
+  {
+    "index": "166",
+    "title": "20 Golden Greats",
+    "artist": "Buddy Holly",
+    "link": "https://en.wikipedia.org/wiki/20_Golden_Greats_(Buddy_Holly_%26_The_Crickets_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/20_Golden_Greats.jpg/220px-20_Golden_Greats.jpg"
+  },
+  {
+    "index": "167",
+    "title": "Violator",
+    "artist": "Depeche Mode",
+    "link": "https://en.wikipedia.org/wiki/Violator_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Depeche_Mode_-_Violator.png/220px-Depeche_Mode_-_Violator.png"
+  },
+  {
+    "index": "168",
+    "title": "Can't Buy a Thrill",
+    "artist": "Steely Dan",
+    "link": "https://en.wikipedia.org/wiki/Can%27t_Buy_a_Thrill",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Cant_buy_a_tcant_buy_a_thrill.jpg/220px-Cant_buy_a_tcant_buy_a_thrill.jpg"
+  },
+  {
+    "index": "169",
+    "title": "The Stranger",
+    "artist": "Billy Joel",
+    "link": "https://en.wikipedia.org/wiki/The_Stranger_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Thestranger1977.jpg/220px-Thestranger1977.jpg"
+  },
+  {
+    "index": "170",
+    "title": "Folklore",
+    "artist": "Taylor Swift",
+    "link": "https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Taylor_Swift_-_Folklore.png/220px-Taylor_Swift_-_Folklore.png"
+  },
+  {
+    "index": "171",
+    "title": "Daydream Nation",
+    "artist": "Sonic Youth",
+    "link": "https://en.wikipedia.org/wiki/Daydream_Nation",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Daydreamnation.png/220px-Daydreamnation.png"
+  },
+  {
+    "index": "172",
+    "title": "Bridge over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "link": "https://en.wikipedia.org/wiki/Bridge_over_Troubled_Water",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Simon_and_Garfunkel%2C_Bridge_over_Troubled_Water_%281970%29.png/220px-Simon_and_Garfunkel%2C_Bridge_over_Troubled_Water_%281970%29.png"
+  },
+  {
+    "index": "173",
+    "title": "In Utero",
+    "artist": "Nirvana",
+    "link": "https://en.wikipedia.org/wiki/In_Utero_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/In_Utero_%28Nirvana%29_album_cover.jpg/220px-In_Utero_%28Nirvana%29_album_cover.jpg"
+  },
+  {
+    "index": "174",
+    "title": "The Harder They Come",
+    "artist": "Various artists",
+    "link": "https://en.wikipedia.org/wiki/The_Harder_They_Come_(soundtrack)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/JimmyCliffTheHarderTheyComealbumcover.jpg/220px-JimmyCliffTheHarderTheyComealbumcover.jpg"
+  },
+  {
+    "index": "175",
+    "title": "Damn",
+    "artist": "Kendrick Lamar",
+    "link": "https://en.wikipedia.org/wiki/Damn_(Kendrick_Lamar_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Damn_Collectors_Edition_cover.png/220px-Damn_Collectors_Edition_cover.png"
+  },
+  {
+    "index": "176",
+    "title": "Fear of a Black Planet",
+    "artist": "Public Enemy",
+    "link": "https://en.wikipedia.org/wiki/Fear_of_a_Black_Planet",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Fear_of_a_Black_Planet.jpg/220px-Fear_of_a_Black_Planet.jpg"
+  },
+  {
+    "index": "177",
+    "title": "Every Picture Tells a Story",
+    "artist": "Rod Stewart",
+    "link": "https://en.wikipedia.org/wiki/Every_Picture_Tells_a_Story",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/EveryPictureTellsaStory.jpg/220px-EveryPictureTellsaStory.jpg"
+  },
+  {
+    "index": "178",
+    "title": "Otis Blue/Otis Redding Sings Soul",
+    "artist": "Otis Redding",
+    "link": "https://en.wikipedia.org/wiki/Otis_Blue/Otis_Redding_Sings_Soul",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Otis_Blue.jpg/220px-Otis_Blue.jpg"
+  },
+  {
+    "index": "179",
+    "title": "Life After Death",
+    "artist": "The Notorious B.I.G.",
+    "link": "https://en.wikipedia.org/wiki/Life_After_Death",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/NotoriousB.I.G.LifeAfterDeath.jpg/220px-NotoriousB.I.G.LifeAfterDeath.jpg"
+  },
+  {
+    "index": "180",
+    "title": "Forever Changes",
+    "artist": "Love",
+    "link": "https://en.wikipedia.org/wiki/Forever_Changes",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Love_-_forever_changes.jpg/220px-Love_-_forever_changes.jpg"
+  },
+  {
+    "index": "181",
+    "title": "Bringing It All Back Home",
+    "artist": "Bob Dylan",
+    "link": "https://en.wikipedia.org/wiki/Bringing_It_All_Back_Home",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Bob_Dylan_-_Bringing_It_All_Back_Home.jpg/220px-Bob_Dylan_-_Bringing_It_All_Back_Home.jpg"
+  },
+  {
+    "index": "182",
+    "title": "Sweet Baby James",
+    "artist": "James Taylor",
+    "link": "https://en.wikipedia.org/wiki/Sweet_Baby_James",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/James_Taylor_-_Sweet_Baby_James.jpg/220px-James_Taylor_-_Sweet_Baby_James.jpg"
+  },
+  {
+    "index": "183",
+    "title": "Brown Sugar",
+    "artist": "D'Angelo",
+    "link": "https://en.wikipedia.org/wiki/Brown_Sugar_(D%27Angelo_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/D%27Angelo_-_Brown_Sugar.jpg/220px-D%27Angelo_-_Brown_Sugar.jpg"
+  },
+  {
+    "index": "184",
+    "title": "She's So Unusual",
+    "artist": "Cyndi Lauper",
+    "link": "https://en.wikipedia.org/wiki/She%27s_So_Unusual",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/ShesSoUnusual1984.PNG/220px-ShesSoUnusual1984.PNG"
+  },
+  {
+    "index": "185",
+    "title": "Beggars Banquet",
+    "artist": "The Rolling Stones",
+    "link": "https://en.wikipedia.org/wiki/Beggars_Banquet",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Beggar_Banquet.jpg/220px-Beggar_Banquet.jpg"
+  },
+  {
+    "index": "186",
+    "title": "Blood Sugar Sex Magik",
+    "artist": "Red Hot Chili Peppers",
+    "link": "https://en.wikipedia.org/wiki/Blood_Sugar_Sex_Magik",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/RHCP-BSSM.jpg/220px-RHCP-BSSM.jpg"
+  },
+  {
+    "index": "187",
+    "title": "AmeriKKKa's Most Wanted",
+    "artist": "Ice Cube",
+    "link": "https://en.wikipedia.org/wiki/AmeriKKKa%27s_Most_Wanted",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/AmeriKKKa%27s_Most_Wanted_%28Ice_Cube%29.jpg/220px-AmeriKKKa%27s_Most_Wanted_%28Ice_Cube%29.jpg"
+  },
+  {
+    "index": "188",
+    "title": "Electric Warrior",
+    "artist": "T. Rex",
+    "link": "https://en.wikipedia.org/wiki/Electric_Warrior",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/T_Rex_Electric_Warrior_UK_album_cover.jpg/220px-T_Rex_Electric_Warrior_UK_album_cover.jpg"
+  },
+  {
+    "index": "189",
+    "title": "Dig Me Out",
+    "artist": "Sleater-Kinney",
+    "link": "https://en.wikipedia.org/wiki/Dig_Me_Out",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SleaterKinneyDigMeOut.jpg/220px-SleaterKinneyDigMeOut.jpg"
+  },
+  {
+    "index": "190",
+    "title": "Tommy",
+    "artist": "The Who",
+    "link": "https://en.wikipedia.org/wiki/Tommy_(The_Who_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Tommyalbumcover.jpg/220px-Tommyalbumcover.jpg"
+  },
+  {
+    "index": "191",
+    "title": "At Last!",
+    "artist": "Etta James",
+    "link": "https://en.wikipedia.org/wiki/At_Last!",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/At_Last_-_Etta_James.jpg/220px-At_Last_-_Etta_James.jpg"
+  },
+  {
+    "index": "192",
+    "title": "Licensed to Ill",
+    "artist": "Beastie Boys",
+    "link": "https://en.wikipedia.org/wiki/Licensed_to_Ill",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Beastie_Boys_-_Licensed_to_Ill.png/220px-Beastie_Boys_-_Licensed_to_Ill.png"
+  },
+  {
+    "index": "193",
+    "title": "Willy and the Poor Boys",
+    "artist": "Creedence Clearwater Revival",
+    "link": "https://en.wikipedia.org/wiki/Willy_and_the_Poor_Boys",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Willy_and_the_poor_boys.jpg/220px-Willy_and_the_poor_boys.jpg"
+  },
+  {
+    "index": "194",
+    "title": "Bad",
+    "artist": "Michael Jackson",
+    "link": "https://en.wikipedia.org/wiki/Bad_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Michael_Jackson_-_Bad.png/220px-Michael_Jackson_-_Bad.png"
+  },
+  {
+    "index": "195",
+    "title": "Songs of Leonard Cohen",
+    "artist": "Leonard Cohen",
+    "link": "https://en.wikipedia.org/wiki/Songs_of_Leonard_Cohen",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/SongsOfLeonardCohen.jpeg/220px-SongsOfLeonardCohen.jpeg"
+  },
+  {
+    "index": "196",
+    "title": "Body Talk",
+    "artist": "Robyn",
+    "link": "https://en.wikipedia.org/wiki/Body_Talk_(Robyn_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Body_talk_pt._3.jpg/220px-Body_talk_pt._3.jpg"
+  },
+  {
+    "index": "197",
+    "title": "Meet the Beatles!",
+    "artist": "The Beatles",
+    "link": "https://en.wikipedia.org/wiki/Meet_the_Beatles!",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Meet_the_Beatles.jpg/220px-Meet_the_Beatles.jpg"
+  },
+  {
+    "index": "198",
+    "title": "The B-52's",
+    "artist": "The B-52's",
+    "link": "https://en.wikipedia.org/wiki/The_B-52%27s_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/The_B-52%27s_cover.jpg/220px-The_B-52%27s_cover.jpg"
+  },
+  {
+    "index": "199",
+    "title": "Slanted and Enchanted",
+    "artist": "Pavement",
+    "link": "https://en.wikipedia.org/wiki/Slanted_and_Enchanted",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Slanted_and_Enchanted_album_cover.jpg/220px-Slanted_and_Enchanted_album_cover.jpg"
+  },
+  {
+    "index": "200",
+    "title": "Diamond Life",
+    "artist": "Sade",
+    "link": "https://en.wikipedia.org/wiki/Diamond_Life",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Sade_-_Diamond_Life.png/220px-Sade_-_Diamond_Life.png"
+  },
+  {
+    "index": "201",
+    "title": "Midnight Marauders",
+    "artist": "A Tribe Called Quest",
+    "link": "https://en.wikipedia.org/wiki/Midnight_Marauders",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/ATCQMidnightMarauders.jpg/220px-ATCQMidnightMarauders.jpg"
+  },
+  {
+    "index": "202",
+    "title": "Homogenic",
+    "artist": "Björk",
+    "link": "https://en.wikipedia.org/wiki/Homogenic",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Bj%C3%B6rk_-_Homogenic.png/220px-Bj%C3%B6rk_-_Homogenic.png"
+  },
+  {
+    "index": "203",
+    "title": "Pink Moon",
+    "artist": "Nick Drake",
+    "link": "https://en.wikipedia.org/wiki/Pink_Moon",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/NickDrakePinkMoon.jpg/220px-NickDrakePinkMoon.jpg"
+  },
+  {
+    "index": "204",
+    "title": "Graduation",
+    "artist": "Kanye West",
+    "link": "https://en.wikipedia.org/wiki/Graduation_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Graduation_%28album%29.jpg/220px-Graduation_%28album%29.jpg"
+  },
+  {
+    "index": "205",
+    "title": "Tea for the Tillerman",
+    "artist": "Cat Stevens",
+    "link": "https://en.wikipedia.org/wiki/Tea_for_the_Tillerman",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Tea_for_the_Tillerman.jpeg/220px-Tea_for_the_Tillerman.jpeg"
+  },
+  {
+    "index": "206",
+    "title": "Low",
+    "artist": "David Bowie",
+    "link": "https://en.wikipedia.org/wiki/Low_(David_Bowie_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Low_%28album%29.jpg/220px-Low_%28album%29.jpg"
+  },
+  {
+    "index": "207",
+    "title": "Eagles",
+    "artist": "Eagles",
+    "link": "https://en.wikipedia.org/wiki/Eagles_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/The_Eagles_-_The_Eagles.jpeg/220px-The_Eagles_-_The_Eagles.jpeg"
+  },
+  {
+    "index": "208",
+    "title": "Tha Carter III",
+    "artist": "Lil Wayne",
+    "link": "https://en.wikipedia.org/wiki/Tha_Carter_III",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/CarterIII.jpg/220px-CarterIII.jpg"
+  },
+  {
+    "index": "209",
+    "title": "Raising Hell",
+    "artist": "Run-DMC",
+    "link": "https://en.wikipedia.org/wiki/Raising_Hell_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Raising_Hell_%28Run_DMC_album_-_cover_art%29.jpg/220px-Raising_Hell_%28Run_DMC_album_-_cover_art%29.jpg"
+  },
+  {
+    "index": "210",
+    "title": "The Birth of Soul",
+    "artist": "Ray Charles",
+    "link": "https://en.wikipedia.org/wiki/The_Birth_of_Soul",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Ray_Charles_-_The_Birth_of_Soul.jpg/220px-Ray_Charles_-_The_Birth_of_Soul.jpg"
+  },
+  {
+    "index": "211",
+    "title": "Unknown Pleasures",
+    "artist": "Joy Division",
+    "link": "https://en.wikipedia.org/wiki/Unknown_Pleasures",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/UnknownPleasuresVinyl.jpg/220px-UnknownPleasuresVinyl.jpg"
+  },
+  {
+    "index": "212",
+    "title": "Wild Is the Wind",
+    "artist": "Nina Simone",
+    "link": "https://en.wikipedia.org/wiki/Wild_Is_the_Wind_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/Ninasimonewildisthewind.jpg"
+  },
+  {
+    "index": "213",
+    "title": "The Idler Wheel...",
+    "artist": "Fiona Apple",
+    "link": "https://en.wikipedia.org/wiki/The_Idler_Wheel...",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/TheIdlerWheel....jpg/220px-TheIdlerWheel....jpg"
+  },
+  {
+    "index": "214",
+    "title": "Wildflowers",
+    "artist": "Tom Petty",
+    "link": "https://en.wikipedia.org/wiki/Wildflowers_(Tom_Petty_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Tom_Petty_Wildflowers.jpg/220px-Tom_Petty_Wildflowers.jpg"
+  },
+  {
+    "index": "215",
+    "title": "American Beauty",
+    "artist": "Grateful Dead",
+    "link": "https://en.wikipedia.org/wiki/American_Beauty_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Grateful_Dead_-_American_Beauty.jpg/220px-Grateful_Dead_-_American_Beauty.jpg"
+  },
+  {
+    "index": "216",
+    "title": "Either/Or",
+    "artist": "Elliott Smith",
+    "link": "https://en.wikipedia.org/wiki/Either/Or_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Elliottsmitheitheror55.jpg/220px-Elliottsmitheitheror55.jpg"
+  },
+  {
+    "index": "217",
+    "title": "Definitely Maybe",
+    "artist": "Oasis",
+    "link": "https://en.wikipedia.org/wiki/Definitely_Maybe",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Definitely_Maybe_Singles_box_set_cover.jpg/220px-Definitely_Maybe_Singles_box_set_cover.jpg"
+  },
+  {
+    "index": "218",
+    "title": "CrazySexyCool",
+    "artist": "TLC",
+    "link": "https://en.wikipedia.org/wiki/CrazySexyCool",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/TLC_-_CrazySexyCool_album_cover.png/220px-TLC_-_CrazySexyCool_album_cover.png"
+  },
+  {
+    "index": "219",
+    "title": "Only Built 4 Cuban Linx...",
+    "artist": "Raekwon",
+    "link": "https://en.wikipedia.org/wiki/Only_Built_4_Cuban_Linx...",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Raekwon_only.jpg/220px-Raekwon_only.jpg"
+  },
+  {
+    "index": "220",
+    "title": "Déjà Vu",
+    "artist": "Crosby, Stills, Nash & Young",
+    "link": "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(Crosby,_Stills,_Nash_%26_Young_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Crosby%2C_Stills%2C_Nash_%26_Young_-_Deja_Vu.jpg/220px-Crosby%2C_Stills%2C_Nash_%26_Young_-_Deja_Vu.jpg"
+  },
+  {
+    "index": "221",
+    "title": "Rage Against the Machine",
+    "artist": "Rage Against the Machine",
+    "link": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/RageAgainsttheMachineRageAgainsttheMachine.jpg/220px-RageAgainsttheMachineRageAgainsttheMachine.jpg"
+  },
+  {
+    "index": "222",
+    "title": "Ray of Light",
+    "artist": "Madonna",
+    "link": "https://en.wikipedia.org/wiki/Ray_of_Light",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Ray_of_Light_Madonna.png/220px-Ray_of_Light_Madonna.png"
+  },
+  {
+    "index": "223",
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "link": "https://en.wikipedia.org/wiki/Imagine_(John_Lennon_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ImagineCover.jpg/220px-ImagineCover.jpg"
+  },
+  {
+    "index": "224",
+    "title": "Fly",
+    "artist": "Dixie Chicks",
+    "link": "https://en.wikipedia.org/wiki/Fly_(Dixie_Chicks_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Chicksfly.jpg/220px-Chicksfly.jpg"
+  },
+  {
+    "index": "225",
+    "title": "Yankee Hotel Foxtrot",
+    "artist": "Wilco",
+    "link": "https://en.wikipedia.org/wiki/Yankee_Hotel_Foxtrot",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Yankee_Hotel_Foxtrot_%28Front_Cover%29.png/220px-Yankee_Hotel_Foxtrot_%28Front_Cover%29.png"
+  },
+  {
+    "index": "226",
+    "title": "Layla and Other Assorted Love Songs",
+    "artist": "Derek and the Dominos",
+    "link": "https://en.wikipedia.org/wiki/Layla_and_Other_Assorted_Love_Songs",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/LaylaCover.jpg/220px-LaylaCover.jpg"
+  },
+  {
+    "index": "227",
+    "title": "Here's Little Richard",
+    "artist": "Little Richard",
+    "link": "https://en.wikipedia.org/wiki/Here%27s_Little_Richard",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Hereslittlerichard.jpeg/220px-Hereslittlerichard.jpeg"
+  },
+  {
+    "index": "228",
+    "title": "De La Soul Is Dead",
+    "artist": "De La Soul",
+    "link": "https://en.wikipedia.org/wiki/De_La_Soul_Is_Dead",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/De_La_Soul_Is_Dead.png/220px-De_La_Soul_Is_Dead.png"
+  },
+  {
+    "index": "229",
+    "title": "The Ultimate Collection",
+    "artist": "Patsy Cline",
+    "link": "https://en.wikipedia.org/wiki/The_Ultimate_Collection_(2000_Patsy_Cline_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/The_Ultimate_Collection_%282000_Patsy_Cline_album%29.jpg/220px-The_Ultimate_Collection_%282000_Patsy_Cline_album%29.jpg"
+  },
+  {
+    "index": "230",
+    "title": "Anti",
+    "artist": "Rihanna",
+    "link": "https://en.wikipedia.org/wiki/Anti_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Rihanna_-_Anti.png/220px-Rihanna_-_Anti.png"
+  },
+  {
+    "index": "231",
+    "title": "Damn the Torpedoes",
+    "artist": "Tom Petty and the Heartbreakers",
+    "link": "https://en.wikipedia.org/wiki/Damn_the_Torpedoes_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/TomPetty%26theHeartbreakersDamntheTorpedoes.jpg/220px-TomPetty%26theHeartbreakersDamntheTorpedoes.jpg"
+  },
+  {
+    "index": "232",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "link": "https://en.wikipedia.org/wiki/Giant_Steps",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Coltrane_Giant_Steps.jpg/220px-Coltrane_Giant_Steps.jpg"
+  },
+  {
+    "index": "233",
+    "title": "Little Earthquakes",
+    "artist": "Tori Amos",
+    "link": "https://en.wikipedia.org/wiki/Little_Earthquakes",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Lecover-big.jpg/220px-Lecover-big.jpg"
+  },
+  {
+    "index": "234",
+    "title": "Master of Reality",
+    "artist": "Black Sabbath",
+    "link": "https://en.wikipedia.org/wiki/Master_of_Reality",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Bsmor.jpg/220px-Bsmor.jpg"
+  },
+  {
+    "index": "235",
+    "title": "Metallica",
+    "artist": "Metallica",
+    "link": "https://en.wikipedia.org/wiki/Metallica_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Metallica_-_Metallica_cover.jpg/220px-Metallica_-_Metallica_cover.jpg"
+  },
+  {
+    "index": "236",
+    "title": "Discovery",
+    "artist": "Daft Punk",
+    "link": "https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Discovery_Daft_Punk_Japan.png/220px-Discovery_Daft_Punk_Japan.png"
+  },
+  {
+    "index": "237",
+    "title": "Red Headed Stranger",
+    "artist": "Willie Nelson",
+    "link": "https://en.wikipedia.org/wiki/Red_Headed_Stranger",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/WillieNelsonRedHeadedStrangeralbumcover.jpg/220px-WillieNelsonRedHeadedStrangeralbumcover.jpg"
+  },
+  {
+    "index": "238",
+    "title": "Trans-Europe Express",
+    "artist": "Kraftwerk",
+    "link": "https://en.wikipedia.org/wiki/Trans-Europe_Express_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Trans-Europe_Express_American.jpg/220px-Trans-Europe_Express_American.jpg"
+  },
+  {
+    "index": "239",
+    "title": "Criminal Minded",
+    "artist": "Boogie Down Productions",
+    "link": "https://en.wikipedia.org/wiki/Criminal_Minded",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Criminal_Minded_Album_Cover.jpg/220px-Criminal_Minded_Album_Cover.jpg"
+  },
+  {
+    "index": "240",
+    "title": "Live at the Harlem Square Club, 1963",
+    "artist": "Sam Cooke",
+    "link": "https://en.wikipedia.org/wiki/Live_at_the_Harlem_Square_Club,_1963",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Live_at_Harlem_Cooke_alt.jpg/220px-Live_at_Harlem_Cooke_alt.jpg"
+  },
+  {
+    "index": "241",
+    "title": "Blue Lines",
+    "artist": "Massive Attack",
+    "link": "https://en.wikipedia.org/wiki/Blue_Lines",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/MassiveAttackBlueLines.jpg/220px-MassiveAttackBlueLines.jpg"
+  },
+  {
+    "index": "242",
+    "title": "Loaded",
+    "artist": "The Velvet Underground",
+    "link": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Loadedalbum.jpg/220px-Loadedalbum.jpg"
+  },
+  {
+    "index": "243",
+    "title": "Odessey and Oracle",
+    "artist": "The Zombies",
+    "link": "https://en.wikipedia.org/wiki/Odessey_and_Oracle",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Odessey_and_Oracle.jpg/220px-Odessey_and_Oracle.jpg"
+  },
+  {
+    "index": "244",
+    "title": "808s & Heartbreak",
+    "artist": "Kanye West",
+    "link": "https://en.wikipedia.org/wiki/808s_%26_Heartbreak",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/808s_%26_Heartbreak.png/220px-808s_%26_Heartbreak.png"
+  },
+  {
+    "index": "245",
+    "title": "Heaven or Las Vegas",
+    "artist": "Cocteau Twins",
+    "link": "https://en.wikipedia.org/wiki/Heaven_or_Las_Vegas",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Cocteau_Twins%E2%80%94Heaven_or_Las_Vegas.jpg/220px-Cocteau_Twins%E2%80%94Heaven_or_Las_Vegas.jpg"
+  },
+  {
+    "index": "246",
+    "title": "Mama Said Knock You Out",
+    "artist": "LL Cool J",
+    "link": "https://en.wikipedia.org/wiki/Mama_Said_Knock_You_Out",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Mama_Said_Knock_You_Out_%28LL_Cool_J_album_-_cover_art%29.jpg/220px-Mama_Said_Knock_You_Out_%28LL_Cool_J_album_-_cover_art%29.jpg"
+  },
+  {
+    "index": "247",
+    "title": "Love Deluxe",
+    "artist": "Sade",
+    "link": "https://en.wikipedia.org/wiki/Love_Deluxe",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Sade_-_Love_Deluxe.png/220px-Sade_-_Love_Deluxe.png"
+  },
+  {
+    "index": "248",
+    "title": "American Idiot",
+    "artist": "Green Day",
+    "link": "https://en.wikipedia.org/wiki/American_Idiot",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Heart_Like_a_Hand_Grenade_poster.jpg/220px-Heart_Like_a_Hand_Grenade_poster.jpg"
+  },
+  {
+    "index": "249",
+    "title": "Whitney Houston",
+    "artist": "Whitney Houston",
+    "link": "https://en.wikipedia.org/wiki/Whitney_Houston_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Whitney_Houston%2C_Self_Titled.png/220px-Whitney_Houston%2C_Self_Titled.png"
+  },
+  {
+    "index": "250",
+    "title": "Singles Going Steady",
+    "artist": "Buzzcocks",
+    "link": "https://en.wikipedia.org/wiki/Singles_Going_Steady",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Buzzcocks_-_Singles_Going_Steady_LP_album_cover.jpg/220px-Buzzcocks_-_Singles_Going_Steady_LP_album_cover.jpg"
+  },
+  {
+    "index": "251",
+    "title": "Honky Château",
+    "artist": "Elton John",
+    "link": "https://en.wikipedia.org/wiki/Honky_Ch%C3%A2teau",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Elton_John_-_Honky_Ch%C3%A2teau.jpg/220px-Elton_John_-_Honky_Ch%C3%A2teau.jpg"
+  },
+  {
+    "index": "252",
+    "title": "Q: Are We Not Men? A: We Are Devo!",
+    "artist": "Devo",
+    "link": "https://en.wikipedia.org/wiki/Q._Are_We_Not_Men%3F_A:_We_Are_Devo!",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Are_we_not_men_europe.jpg/220px-Are_we_not_men_europe.jpg"
+  },
+  {
+    "index": "253",
+    "title": "The Piper at the Gates of Dawn",
+    "artist": "Pink Floyd",
+    "link": "https://en.wikipedia.org/wiki/The_Piper_at_the_Gates_of_Dawn",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/PinkFloyd-album-piperatthegatesofdawn_300.jpg/220px-PinkFloyd-album-piperatthegatesofdawn_300.jpg"
+  },
+  {
+    "index": "254",
+    "title": "Head Hunters",
+    "artist": "Herbie Hancock",
+    "link": "https://en.wikipedia.org/wiki/Head_Hunters",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Herbie-Hancock-Head-Hunters.png/220px-Herbie-Hancock-Head-Hunters.png"
+  },
+  {
+    "index": "255",
+    "title": "The Freewheelin' Bob Dylan",
+    "artist": "Bob Dylan",
+    "link": "https://en.wikipedia.org/wiki/The_Freewheelin%27_Bob_Dylan",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Bob_Dylan_-_The_Freewheelin%27_Bob_Dylan.jpg/220px-Bob_Dylan_-_The_Freewheelin%27_Bob_Dylan.jpg"
+  },
+  {
+    "index": "256",
+    "title": "Tracy Chapman",
+    "artist": "Tracy Chapman",
+    "link": "https://en.wikipedia.org/wiki/Tracy_Chapman_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Tracy_Chapman_-_Tracy_Chapman.jpg/220px-Tracy_Chapman_-_Tracy_Chapman.jpg"
+  },
+  {
+    "index": "257",
+    "title": "Coat of Many Colors",
+    "artist": "Dolly Parton",
+    "link": "https://en.wikipedia.org/wiki/Coat_of_Many_Colors",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/CoatofManyColors.jpg/220px-CoatofManyColors.jpg"
+  },
+  {
+    "index": "258",
+    "title": "The Hissing of Summer Lawns",
+    "artist": "Joni Mitchell",
+    "link": "https://en.wikipedia.org/wiki/The_Hissing_of_Summer_Lawns",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Joni_hissing.jpg/220px-Joni_hissing.jpg"
+  },
+  {
+    "index": "259",
+    "title": "Pearl",
+    "artist": "Janis Joplin",
+    "link": "https://en.wikipedia.org/wiki/Pearl_(Janis_Joplin_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Janis_Joplin-Pearl_%28album_cover%29.jpg/220px-Janis_Joplin-Pearl_%28album_cover%29.jpg"
+  },
+  {
+    "index": "260",
+    "title": "Cut",
+    "artist": "The Slits",
+    "link": "https://en.wikipedia.org/wiki/Cut_(The_Slits_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Cut_%28The_Slits%29.jpg/220px-Cut_%28The_Slits%29.jpg"
+  },
+  {
+    "index": "261",
+    "title": "Check Your Head",
+    "artist": "Beastie Boys",
+    "link": "https://en.wikipedia.org/wiki/Check_Your_Head",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Beastie_Boys_-_Check_Your_Head.png/220px-Beastie_Boys_-_Check_Your_Head.png"
+  },
+  {
+    "index": "262",
+    "title": "Power, Corruption & Lies",
+    "artist": "New Order",
+    "link": "https://en.wikipedia.org/wiki/Power,_Corruption_%26_Lies",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/New_Order_-_Power%2C_Corruption_%26_Lies.png/220px-New_Order_-_Power%2C_Corruption_%26_Lies.png"
+  },
+  {
+    "index": "263",
+    "title": "A Hard Day's Night",
+    "artist": "The Beatles",
+    "link": "https://en.wikipedia.org/wiki/A_Hard_Day%27s_Night_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/AHardDaysNightUSalbumcover.jpg/220px-AHardDaysNightUSalbumcover.jpg"
+  },
+  {
+    "index": "264",
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "link": "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Wish_you_were_here_by_Pink_Floyd_banner.png/220px-Wish_you_were_here_by_Pink_Floyd_banner.png"
+  },
+  {
+    "index": "265",
+    "title": "Wowee Zowee",
+    "artist": "Pavement",
+    "link": "https://en.wikipedia.org/wiki/Wowee_Zowee",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/WoweeZowee.jpg/220px-WoweeZowee.jpg"
+  },
+  {
+    "index": "266",
+    "title": "Help!",
+    "artist": "The Beatles",
+    "link": "https://en.wikipedia.org/wiki/Help!",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/HelpUSalbumcover.jpg/220px-HelpUSalbumcover.jpg"
+  },
+  {
+    "index": "267",
+    "title": "Double Nickels on the Dime",
+    "artist": "Minutemen",
+    "link": "https://en.wikipedia.org/wiki/Double_Nickels_on_the_Dime",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Doublenickels.jpg/220px-Doublenickels.jpg"
+  },
+  {
+    "index": "268",
+    "title": "Sail Away",
+    "artist": "Randy Newman",
+    "link": "https://en.wikipedia.org/wiki/Sail_Away_(Randy_Newman_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Randy_Newman-Sail_Away_%28album_cover%29.jpg/220px-Randy_Newman-Sail_Away_%28album_cover%29.jpg"
+  },
+  {
+    "index": "269",
+    "title": "Yeezus",
+    "artist": "Kanye West",
+    "link": "https://en.wikipedia.org/wiki/Yeezus",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yeezus_album_cover.png/220px-Yeezus_album_cover.png"
+  },
+  {
+    "index": "270",
+    "title": "Golden Hour",
+    "artist": "Kacey Musgraves",
+    "link": "https://en.wikipedia.org/wiki/Golden_Hour_(Kacey_Musgraves_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Kacey_Musgraves_-_Golden_Hour.png/220px-Kacey_Musgraves_-_Golden_Hour.png"
+  },
+  {
+    "index": "271",
+    "title": "What's the 411?",
+    "artist": "Mary J. Blige",
+    "link": "https://en.wikipedia.org/wiki/What%27s_the_411%3F",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/What%27sThe411%3F.jpg/220px-What%27sThe411%3F.jpg"
+  },
+  {
+    "index": "272",
+    "title": "White Light/White Heat",
+    "artist": "The Velvet Underground",
+    "link": "https://en.wikipedia.org/wiki/White_Light/White_Heat",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/VUToySoldiers.jpg/220px-VUToySoldiers.jpg"
+  },
+  {
+    "index": "273",
+    "title": "Entertainment!",
+    "artist": "Gang of Four",
+    "link": "https://en.wikipedia.org/wiki/Entertainment!",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Entertainment%21.jpg/220px-Entertainment%21.jpg"
+  },
+  {
+    "index": "274",
+    "title": "Sweetheart of the Rodeo",
+    "artist": "The Byrds",
+    "link": "https://en.wikipedia.org/wiki/Sweetheart_of_the_Rodeo",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/TheByrdsSweetheartoftheRodeo.jpg/220px-TheByrdsSweetheartoftheRodeo.jpg"
+  },
+  {
+    "index": "275",
+    "title": "Curtis",
+    "artist": "Curtis Mayfield",
+    "link": "https://en.wikipedia.org/wiki/Curtis_(Curtis_Mayfield_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Curtismayfield-1970lp.jpg/220px-Curtismayfield-1970lp.jpg"
+  },
+  {
+    "index": "276",
+    "title": "The Bends",
+    "artist": "Radiohead",
+    "link": "https://en.wikipedia.org/wiki/The_Bends_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Radioheadthebends.png/220px-Radioheadthebends.png"
+  },
+  {
+    "index": "277",
+    "title": "The Diary of Alicia Keys",
+    "artist": "Alicia Keys",
+    "link": "https://en.wikipedia.org/wiki/The_Diary_of_Alicia_Keys",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/The_Diary_Of_Alicia_Keys_album_cover.jpg/220px-The_Diary_Of_Alicia_Keys_album_cover.jpg"
+  },
+  {
+    "index": "278",
+    "title": "Houses of the Holy",
+    "artist": "Led Zeppelin",
+    "link": "https://en.wikipedia.org/wiki/Houses_of_the_Holy",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Led_Zeppelin_-_Houses_of_the_Holy.jpg/220px-Led_Zeppelin_-_Houses_of_the_Holy.jpg"
+  },
+  {
+    "index": "279",
+    "title": "MTV Unplugged in New York",
+    "artist": "Nirvana",
+    "link": "https://en.wikipedia.org/wiki/MTV_Unplugged_in_New_York",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Nirvana_mtv_unplugged_in_new_york.png/220px-Nirvana_mtv_unplugged_in_new_york.png"
+  },
+  {
+    "index": "280",
+    "title": "Get Rich or Die Tryin'",
+    "artist": "50 Cent",
+    "link": "https://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Get_Rich_Or_Die_Tryin%27.JPG/220px-Get_Rich_Or_Die_Tryin%27.JPG"
+  },
+  {
+    "index": "281",
+    "title": "Nilsson Schmilsson",
+    "artist": "Harry Nilsson",
+    "link": "https://en.wikipedia.org/wiki/Nilsson_Schmilsson",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Harry_Nilsson_-_Nilsson_Schmilsson.png/220px-Harry_Nilsson_-_Nilsson_Schmilsson.png"
+  },
+  {
+    "index": "282",
+    "title": "In the Wee Small Hours",
+    "artist": "Frank Sinatra",
+    "link": "https://en.wikipedia.org/wiki/In_the_Wee_Small_Hours",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Wee_small_hours_album_cover_high_definition.jpg/220px-Wee_small_hours_album_cover_high_definition.jpg"
+  },
+  {
+    "index": "283",
+    "title": "Bad Girls",
+    "artist": "Donna Summer",
+    "link": "https://en.wikipedia.org/wiki/Bad_Girls_(Donna_Summer_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Bad_Girls_LP.jpg/220px-Bad_Girls_LP.jpg"
+  },
+  {
+    "index": "284",
+    "title": "Down Every Road 1962–1994",
+    "artist": "Merle Haggard",
+    "link": "https://en.wikipedia.org/wiki/Down_Every_Road_1962%E2%80%931994",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Down_Every_Road.jpg/220px-Down_Every_Road.jpg"
+  },
+  {
+    "index": "285",
+    "title": "Third/Sister Lovers",
+    "artist": "Big Star",
+    "link": "https://en.wikipedia.org/wiki/Third/Sister_Lovers",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/BigStarThird.JPG/220px-BigStarThird.JPG"
+  },
+  {
+    "index": "286",
+    "title": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "link": "https://en.wikipedia.org/wiki/Californication_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/RedHotChiliPeppersCalifornication.jpg/220px-RedHotChiliPeppersCalifornication.jpg"
+  },
+  {
+    "index": "287",
+    "title": "Mr. Tambourine Man",
+    "artist": "The Byrds",
+    "link": "https://en.wikipedia.org/wiki/Mr._Tambourine_Man_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/TheByrdsMrTambourineManEmbassyA.jpg/220px-TheByrdsMrTambourineManEmbassyA.jpg"
+  },
+  {
+    "index": "288",
+    "title": "The Modern Lovers",
+    "artist": "The Modern Lovers",
+    "link": "https://en.wikipedia.org/wiki/The_Modern_Lovers_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Modernlovers.jpg/220px-Modernlovers.jpg"
+  },
+  {
+    "index": "289",
+    "title": "Post",
+    "artist": "Björk",
+    "link": "https://en.wikipedia.org/wiki/Post_(Bj%C3%B6rk_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Bjork_Post.png/220px-Bjork_Post.png"
+  },
+  {
+    "index": "290",
+    "title": "Speakerboxxx/The Love Below",
+    "artist": "Outkast",
+    "link": "https://en.wikipedia.org/wiki/Speakerboxxx/The_Love_Below",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Outkast-speakerboxx-lovebelow.jpg/220px-Outkast-speakerboxx-lovebelow.jpg"
+  },
+  {
+    "index": "291",
+    "title": "The Writing's on the Wall",
+    "artist": "Destiny's Child",
+    "link": "https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Destiny%27s_Child_%E2%80%93_The_Writing%27s_on_the_Wall.jpg/220px-Destiny%27s_Child_%E2%80%93_The_Writing%27s_on_the_Wall.jpg"
+  },
+  {
+    "index": "292",
+    "title": "Van Halen",
+    "artist": "Van Halen",
+    "link": "https://en.wikipedia.org/wiki/Van_Halen_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Van_Halen_album.jpg/220px-Van_Halen_album.jpg"
+  },
+  {
+    "index": "293",
+    "title": "Last Splash",
+    "artist": "The Breeders",
+    "link": "https://en.wikipedia.org/wiki/Last_Splash",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/TheBreedersLastSplash.jpg/220px-TheBreedersLastSplash.jpg"
+  },
+  {
+    "index": "294",
+    "title": "Weezer",
+    "artist": "Weezer",
+    "link": "https://en.wikipedia.org/wiki/Weezer_(Blue_Album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Weezer_-_Blue_Album.png/220px-Weezer_-_Blue_Album.png"
+  },
+  {
+    "index": "295",
+    "title": "Random Access Memories",
+    "artist": "Daft Punk",
+    "link": "https://en.wikipedia.org/wiki/Random_Access_Memories",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Daft_Punk_-_Random_Access_Memories.png/220px-Daft_Punk_-_Random_Access_Memories.png"
+  },
+  {
+    "index": "296",
+    "title": "Rust Never Sleeps",
+    "artist": "Neil Young and Crazy Horse",
+    "link": "https://en.wikipedia.org/wiki/Rust_Never_Sleeps",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Neil_Young_Rust_Never_Sleeps.jpg/220px-Neil_Young_Rust_Never_Sleeps.jpg"
+  },
+  {
+    "index": "297",
+    "title": "So",
+    "artist": "Peter Gabriel",
+    "link": "https://en.wikipedia.org/wiki/So_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/So_%28album%29.png/220px-So_%28album%29.png"
+  },
+  {
+    "index": "298",
+    "title": "Full Moon Fever",
+    "artist": "Tom Petty",
+    "link": "https://en.wikipedia.org/wiki/Full_Moon_Fever",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Tom_Petty_Full_Moon_Fever.jpg/220px-Tom_Petty_Full_Moon_Fever.jpg"
+  },
+  {
+    "index": "299",
+    "title": "Live at the Regal",
+    "artist": "B.B. King",
+    "link": "https://en.wikipedia.org/wiki/Live_at_the_Regal",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/BB_King-Live_at_the_Regal_%28album_cover%29.jpg/220px-BB_King-Live_at_the_Regal_%28album_cover%29.jpg"
+  },
+  {
+    "index": "300",
+    "title": "Come On Over",
+    "artist": "Shania Twain",
+    "link": "https://en.wikipedia.org/wiki/Come_On_Over",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Shania_Twain_-_Come_on_Over_Alternate_Cover.jpg/220px-Shania_Twain_-_Come_on_Over_Alternate_Cover.jpg"
+  },
+  {
+    "index": "301",
+    "title": "New York Dolls",
+    "artist": "New York Dolls",
+    "link": "https://en.wikipedia.org/wiki/New_York_Dolls_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/NewYorkDollsNewYorkDolls.jpg/220px-NewYorkDollsNewYorkDolls.jpg"
+  },
+  {
+    "index": "302",
+    "title": "Tonight's the Night",
+    "artist": "Neil Young",
+    "link": "https://en.wikipedia.org/wiki/Tonight%27s_the_Night_(Neil_Young_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Neil_Young_TTN_cover.jpg/220px-Neil_Young_TTN_cover.jpg"
+  },
+  {
+    "index": "303",
+    "title": "The Definitive Collection",
+    "artist": "ABBA",
+    "link": "https://en.wikipedia.org/wiki/The_Definitive_Collection_(ABBA_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Abbadefinitivecollection.jpg/220px-Abbadefinitivecollection.jpg"
+  },
+  {
+    "index": "304",
+    "title": "Just as I Am",
+    "artist": "Bill Withers",
+    "link": "https://en.wikipedia.org/wiki/Just_as_I_Am_(Bill_Withers_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Withers-justasiamcoverart.JPG/220px-Withers-justasiamcoverart.JPG"
+  },
+  {
+    "index": "305",
+    "title": "Alive!",
+    "artist": "Kiss",
+    "link": "https://en.wikipedia.org/wiki/Alive!_(Kiss_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Kiss_alive_album_cover.jpg/220px-Kiss_alive_album_cover.jpg"
+  },
+  {
+    "index": "306",
+    "title": "I'm Still in Love with You",
+    "artist": "Al Green",
+    "link": "https://en.wikipedia.org/wiki/I%27m_Still_in_Love_with_You_(Al_Green_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/StillinloveAlGreen.jpg/220px-StillinloveAlGreen.jpg"
+  },
+  {
+    "index": "307",
+    "title": "Portrait of a Legend: 1951–1964",
+    "artist": "Sam Cooke",
+    "link": "https://en.wikipedia.org/wiki/Portrait_of_a_Legend:_1951%E2%80%931964",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Portrait_of_a_Legeng.jpg/220px-Portrait_of_a_Legeng.jpg"
+  },
+  {
+    "index": "308",
+    "title": "Here Come the Warm Jets",
+    "artist": "Brian Eno",
+    "link": "https://en.wikipedia.org/wiki/Here_Come_the_Warm_Jets",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Warmjetsvinyl.jpg/220px-Warmjetsvinyl.jpg"
+  },
+  {
+    "index": "309",
+    "title": "Closer",
+    "artist": "Joy Division",
+    "link": "https://en.wikipedia.org/wiki/Closer_(Joy_Division_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Joy_Division_Closer.jpg/220px-Joy_Division_Closer.jpg"
+  },
+  {
+    "index": "310",
+    "title": "Pink Flag",
+    "artist": "Wire",
+    "link": "https://en.wikipedia.org/wiki/Pink_Flag",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Wirepinkflagcover.jpg/220px-Wirepinkflagcover.jpg"
+  },
+  {
+    "index": "311",
+    "title": "On the Beach",
+    "artist": "Neil Young",
+    "link": "https://en.wikipedia.org/wiki/On_the_Beach_(Neil_Young_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Neil_Young_-_On_the_Beach.png/220px-Neil_Young_-_On_the_Beach.png"
+  },
+  {
+    "index": "312",
+    "title": "A Seat at the Table",
+    "artist": "Solange Knowles",
+    "link": "https://en.wikipedia.org/wiki/A_Seat_at_the_Table",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Solange_-_A_Seat_at_the_Table.png/220px-Solange_-_A_Seat_at_the_Table.png"
+  },
+  {
+    "index": "313",
+    "title": "Stories from the City, Stories from the Sea",
+    "artist": "PJ Harvey",
+    "link": "https://en.wikipedia.org/wiki/Stories_from_the_City,_Stories_from_the_Sea",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Stories_From_The_City%2C_Stories_From_The_Sea.jpg/220px-Stories_From_The_City%2C_Stories_From_The_Sea.jpg"
+  },
+  {
+    "index": "314",
+    "title": "One in a Million",
+    "artist": "Aaliyah",
+    "link": "https://en.wikipedia.org/wiki/One_in_a_Million_(Aaliyah_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Aaliyah_-_One_in_a_Million_%28album_cover%29.png/220px-Aaliyah_-_One_in_a_Million_%28album_cover%29.png"
+  },
+  {
+    "index": "315",
+    "title": "El Mal Querer",
+    "artist": "Rosalía",
+    "link": "https://en.wikipedia.org/wiki/El_mal_querer",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Rosal%C3%ADa_El_mal_querer.png/220px-Rosal%C3%ADa_El_mal_querer.png"
+  },
+  {
+    "index": "316",
+    "title": "The Who Sell Out",
+    "artist": "The Who",
+    "link": "https://en.wikipedia.org/wiki/The_Who_Sell_Out",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/The_who_sell_out_album_front.jpg/220px-The_who_sell_out_album_front.jpg"
+  },
+  {
+    "index": "317",
+    "title": "Lady in Satin",
+    "artist": "Billie Holiday",
+    "link": "https://en.wikipedia.org/wiki/Lady_in_Satin",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Ladyinsatin2.jpg/220px-Ladyinsatin2.jpg"
+  },
+  {
+    "index": "318",
+    "title": "The Velvet Rope",
+    "artist": "Janet Jackson",
+    "link": "https://en.wikipedia.org/wiki/The_Velvet_Rope",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Janet_Jackson_%E2%80%93_The_Velvet_Rope_%28Official_Album_Cover%29.png/220px-Janet_Jackson_%E2%80%93_The_Velvet_Rope_%28Official_Album_Cover%29.png"
+  },
+  {
+    "index": "319",
+    "title": "The Stone Roses",
+    "artist": "The Stone Roses",
+    "link": "https://en.wikipedia.org/wiki/The_Stone_Roses_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Stoneroses.jpg/220px-Stoneroses.jpg"
+  },
+  {
+    "index": "320",
+    "title": "Los Angeles",
+    "artist": "X",
+    "link": "https://en.wikipedia.org/wiki/Los_Angeles_(X_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/XLosAngeles.jpg/220px-XLosAngeles.jpg"
+  },
+  {
+    "index": "321",
+    "title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "link": "https://en.wikipedia.org/wiki/Norman_Fucking_Rockwell!",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Lana_Del_Rey_-_Norman_Fucking_Rockwell.png/220px-Lana_Del_Rey_-_Norman_Fucking_Rockwell.png"
+  },
+  {
+    "index": "322",
+    "title": "From Elvis in Memphis",
+    "artist": "Elvis Presley",
+    "link": "https://en.wikipedia.org/wiki/From_Elvis_in_Memphis",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/ElvisinMemphis.jpg/220px-ElvisinMemphis.jpg"
+  },
+  {
+    "index": "323",
+    "title": "Sandinista!",
+    "artist": "The Clash",
+    "link": "https://en.wikipedia.org/wiki/Sandinista!",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/The_Clash_-_Sandinista%21.jpg/220px-The_Clash_-_Sandinista%21.jpg"
+  },
+  {
+    "index": "324",
+    "title": "A Rush of Blood to the Head",
+    "artist": "Coldplay",
+    "link": "https://en.wikipedia.org/wiki/A_Rush_of_Blood_to_the_Head",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Coldplay_-_A_Rush_of_Blood_to_the_Head_Cover.png/220px-Coldplay_-_A_Rush_of_Blood_to_the_Head_Cover.png"
+  },
+  {
+    "index": "325",
+    "title": "All Killer, No Filler: The Anthology",
+    "artist": "Jerry Lee Lewis",
+    "link": "https://en.wikipedia.org/wiki/All_Killer,_No_Filler:_The_Anthology",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/AllKillerNoFiller.jpg"
+  },
+  {
+    "index": "326",
+    "title": "Dirty Mind",
+    "artist": "Prince",
+    "link": "https://en.wikipedia.org/wiki/Dirty_Mind",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Prince_-_Dirty_Mind.jpg/220px-Prince_-_Dirty_Mind.jpg"
+  },
+  {
+    "index": "327",
+    "title": "Live at Leeds",
+    "artist": "The Who",
+    "link": "https://en.wikipedia.org/wiki/Live_at_Leeds",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/The_who_live_at_leeds.jpg/220px-The_who_live_at_leeds.jpg"
+  },
+  {
+    "index": "328",
+    "title": "Modern Vampires of the City",
+    "artist": "Vampire Weekend",
+    "link": "https://en.wikipedia.org/wiki/Modern_Vampires_of_the_City",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Vampire_Weekend_-_Modern_Vampires_of_the_City.png/220px-Vampire_Weekend_-_Modern_Vampires_of_the_City.png"
+  },
+  {
+    "index": "329",
+    "title": "Endtroducing.....",
+    "artist": "DJ Shadow",
+    "link": "https://en.wikipedia.org/wiki/Endtroducing.....",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Endtroducingcover.jpg/220px-Endtroducingcover.jpg"
+  },
+  {
+    "index": "330",
+    "title": "Aftermath",
+    "artist": "The Rolling Stones",
+    "link": "https://en.wikipedia.org/wiki/Aftermath_(Rolling_Stones_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aftermath_US.jpg/220px-Aftermath_US.jpg"
+  },
+  {
+    "index": "331",
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "link": "https://en.wikipedia.org/wiki/Like_a_Prayer_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Madonna_-_Like_a_Prayer_album.png/220px-Madonna_-_Like_a_Prayer_album.png"
+  },
+  {
+    "index": "332",
+    "title": "Elvis Presley",
+    "artist": "Elvis Presley",
+    "link": "https://en.wikipedia.org/wiki/Elvis_Presley_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Elvis_Presley_LPM-1254_Album_Cover.jpg/220px-Elvis_Presley_LPM-1254_Album_Cover.jpg"
+  },
+  {
+    "index": "333",
+    "title": "Still Bill",
+    "artist": "Bill Withers",
+    "link": "https://en.wikipedia.org/wiki/Still_Bill",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Still_Bill.jpg/220px-Still_Bill.jpg"
+  },
+  {
+    "index": "334",
+    "title": "Abraxas",
+    "artist": "Santana",
+    "link": "https://en.wikipedia.org/wiki/Abraxas_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SantanaAbraxas.jpg/220px-SantanaAbraxas.jpg"
+  },
+  {
+    "index": "335",
+    "title": "The Basement Tapes",
+    "artist": "Bob Dylan and the Band",
+    "link": "https://en.wikipedia.org/wiki/The_Basement_Tapes",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Bob_Dylan_and_The_Band_-_The_Basement_Tapes.jpg/220px-Bob_Dylan_and_The_Band_-_The_Basement_Tapes.jpg"
+  },
+  {
+    "index": "336",
+    "title": "Avalon",
+    "artist": "Roxy Music",
+    "link": "https://en.wikipedia.org/wiki/Avalon_(Roxy_Music_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Avalon_album_cover.jpg/220px-Avalon_album_cover.jpg"
+  },
+  {
+    "index": "337",
+    "title": "John Wesley Harding",
+    "artist": "Bob Dylan",
+    "link": "https://en.wikipedia.org/wiki/John_Wesley_Harding",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bob_Dylan_-_John_Wesley_Harding.jpg/220px-Bob_Dylan_-_John_Wesley_Harding.jpg"
+  },
+  {
+    "index": "338",
+    "title": "Another Green World",
+    "artist": "Brian Eno",
+    "link": "https://en.wikipedia.org/wiki/Another_Green_World",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Another_Green_World.jpg/220px-Another_Green_World.jpg"
+  },
+  {
+    "index": "339",
+    "title": "Janet Jackson's Rhythm Nation 1814",
+    "artist": "Janet Jackson",
+    "link": "https://en.wikipedia.org/wiki/Janet_Jackson%27s_Rhythm_Nation_1814",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Janet_Jackson_Rhythm_Nation_1814.png/220px-Janet_Jackson_Rhythm_Nation_1814.png"
+  },
+  {
+    "index": "340",
+    "title": "Doggystyle",
+    "artist": "Snoop Doggy Dogg",
+    "link": "https://en.wikipedia.org/wiki/Doggystyle",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/SnoopDoggyDoggDoggystyle.jpg/220px-SnoopDoggyDoggDoggystyle.jpg"
+  },
+  {
+    "index": "341",
+    "title": "Siamese Dream",
+    "artist": "The Smashing Pumpkins",
+    "link": "https://en.wikipedia.org/wiki/Siamese_Dream",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/The_Smashing_Pumpkins_-_Siamese_Dream_reissue_cover.jpeg/220px-The_Smashing_Pumpkins_-_Siamese_Dream_reissue_cover.jpeg"
+  },
+  {
+    "index": "342",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "link": "https://en.wikipedia.org/wiki/Let_It_Be_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/LetItBe.jpg/220px-LetItBe.jpg"
+  },
+  {
+    "index": "343",
+    "title": "Greatest Hits",
+    "artist": "Sly and the Family Stone",
+    "link": "https://en.wikipedia.org/wiki/Greatest_Hits_(Sly_and_the_Family_Stone_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Slyfam-ghits-1970.jpg/220px-Slyfam-ghits-1970.jpg"
+  },
+  {
+    "index": "344",
+    "title": "Funky Kingston",
+    "artist": "Toots and the Maytals",
+    "link": "https://en.wikipedia.org/wiki/Funky_Kingston",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Funky_Kingston_cover.jpg/220px-Funky_Kingston_cover.jpg"
+  },
+  {
+    "index": "345",
+    "title": "The Wild, the Innocent & the E Street Shuffle",
+    "artist": "Bruce Springsteen",
+    "link": "https://en.wikipedia.org/wiki/The_Wild,_the_Innocent_%26_the_E_Street_Shuffle",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/TheWildTheInnocent.jpg/220px-TheWildTheInnocent.jpg"
+  },
+  {
+    "index": "346",
+    "title": "AM",
+    "artist": "Arctic Monkeys",
+    "link": "https://en.wikipedia.org/wiki/AM_(Arctic_Monkeys_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%22AM%22_%28Arctic_Monkeys%29.jpg/220px-%22AM%22_%28Arctic_Monkeys%29.jpg"
+  },
+  {
+    "index": "347",
+    "title": "Liquid Swords",
+    "artist": "GZA",
+    "link": "https://en.wikipedia.org/wiki/Liquid_Swords",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Liquidswords1995.png/220px-Liquidswords1995.png"
+  },
+  {
+    "index": "348",
+    "title": "Time (The Revelator)",
+    "artist": "Gillian Welch",
+    "link": "https://en.wikipedia.org/wiki/Time_(The_Revelator)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/GillianWelch_Time%28TheRevelator%29.jpg/220px-GillianWelch_Time%28TheRevelator%29.jpg"
+  },
+  {
+    "index": "349",
+    "title": "Kick Out the Jams",
+    "artist": "MC5",
+    "link": "https://en.wikipedia.org/wiki/Kick_Out_the_Jams",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/MC5_-_Kick_Out_the_Jams.jpg/220px-MC5_-_Kick_Out_the_Jams.jpg"
+  },
+  {
+    "index": "350",
+    "title": "Music of My Mind",
+    "artist": "Stevie Wonder",
+    "link": "https://en.wikipedia.org/wiki/Music_of_My_Mind",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Stevie_Wonder_-_Music_of_My_Mind.png/220px-Stevie_Wonder_-_Music_of_My_Mind.png"
+  },
+  {
+    "index": "351",
+    "title": "SOS",
+    "artist": "SZA",
+    "link": "https://en.wikipedia.org/wiki/SOS_(SZA_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/SZA_-_S.O.S.png/220px-SZA_-_S.O.S.png"
+  },
+  {
+    "index": "352",
+    "title": "The Slim Shady LP",
+    "artist": "Eminem",
+    "link": "https://en.wikipedia.org/wiki/The_Slim_Shady_LP",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Eminem_-_The_Slim_Shady_LP_CD_cover.jpg/220px-Eminem_-_The_Slim_Shady_LP_CD_cover.jpg"
+  },
+  {
+    "index": "353",
+    "title": "The Cars",
+    "artist": "The Cars",
+    "link": "https://en.wikipedia.org/wiki/The_Cars_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/The_Cars_-_The_Cars.png/220px-The_Cars_-_The_Cars.png"
+  },
+  {
+    "index": "354",
+    "title": "Germfree Adolescents",
+    "artist": "X-Ray Spex",
+    "link": "https://en.wikipedia.org/wiki/Germfree_Adolescents",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/X-Ray_Spex_-_Germfree_Adolescents_album_cover.jpg/220px-X-Ray_Spex_-_Germfree_Adolescents_album_cover.jpg"
+  },
+  {
+    "index": "355",
+    "title": "Black Sabbath",
+    "artist": "Black Sabbath",
+    "link": "https://en.wikipedia.org/wiki/Black_Sabbath_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Black_Sabbath_debut_album.jpg/220px-Black_Sabbath_debut_album.jpg"
+  },
+  {
+    "index": "356",
+    "title": "Gris-Gris",
+    "artist": "Dr. John",
+    "link": "https://en.wikipedia.org/wiki/Gris-Gris",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/DrjohnNighttripper.jpg/220px-DrjohnNighttripper.jpg"
+  },
+  {
+    "index": "357",
+    "title": "Rain Dogs",
+    "artist": "Tom Waits",
+    "link": "https://en.wikipedia.org/wiki/Rain_Dogs",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Tom_Waits_-_Rain_Dogs.png/220px-Tom_Waits_-_Rain_Dogs.png"
+  },
+  {
+    "index": "358",
+    "title": "Sour",
+    "artist": "Olivia Rodrigo",
+    "link": "https://en.wikipedia.org/wiki/Sour_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/SOUR_Target_Edition_cover.png/220px-SOUR_Target_Edition_cover.png"
+  },
+  {
+    "index": "359",
+    "title": "Radio City",
+    "artist": "Big Star",
+    "link": "https://en.wikipedia.org/wiki/Radio_City_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Radio_city_cover.jpg/220px-Radio_city_cover.jpg"
+  },
+  {
+    "index": "360",
+    "title": "One Nation Under a Groove",
+    "artist": "Funkadelic",
+    "link": "https://en.wikipedia.org/wiki/One_Nation_Under_a_Groove",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Funkadelic_-_One_Nation_Under_a_Groove.jpg/220px-Funkadelic_-_One_Nation_Under_a_Groove.jpg"
+  },
+  {
+    "index": "361",
+    "title": "The Black Parade",
+    "artist": "My Chemical Romance",
+    "link": "https://en.wikipedia.org/wiki/The_Black_Parade",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Theblackparadevinylart.jpg/220px-Theblackparadevinylart.jpg"
+  },
+  {
+    "index": "362",
+    "title": "Never Too Much",
+    "artist": "Luther Vandross",
+    "link": "https://en.wikipedia.org/wiki/Never_Too_Much_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Ntm-lv.jpg/220px-Ntm-lv.jpg"
+  },
+  {
+    "index": "363",
+    "title": "Mothership Connection",
+    "artist": "Parliament",
+    "link": "https://en.wikipedia.org/wiki/Mothership_Connection",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ParliamentMothershipConnection.jpg/220px-ParliamentMothershipConnection.jpg"
+  },
+  {
+    "index": "364",
+    "title": "More Songs About Buildings and Food",
+    "artist": "Talking Heads",
+    "link": "https://en.wikipedia.org/wiki/More_Songs_About_Buildings_and_Food",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/TalkingHeadsMoreSongsAboutBuildingsandFood.jpg/220px-TalkingHeadsMoreSongsAboutBuildingsandFood.jpg"
+  },
+  {
+    "index": "365",
+    "title": "Madvillainy",
+    "artist": "Madvillain",
+    "link": "https://en.wikipedia.org/wiki/Madvillainy",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Madvillainydemo.jpg/220px-Madvillainydemo.jpg"
+  },
+  {
+    "index": "366",
+    "title": "Rocks",
+    "artist": "Aerosmith",
+    "link": "https://en.wikipedia.org/wiki/Rocks_(Aerosmith_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Aerosmith_-_Rocks.JPG/220px-Aerosmith_-_Rocks.JPG"
+  },
+  {
+    "index": "367",
+    "title": "If You're Reading This It's Too Late",
+    "artist": "Drake",
+    "link": "https://en.wikipedia.org/wiki/If_You%27re_Reading_This_It%27s_Too_Late",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png/220px-Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png"
+  },
+  {
+    "index": "368",
+    "title": "All Things Must Pass",
+    "artist": "George Harrison",
+    "link": "https://en.wikipedia.org/wiki/All_Things_Must_Pass",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/All_Things_Must_Pass_%282001%29_-_Album_Artwork.jpg/220px-All_Things_Must_Pass_%282001%29_-_Album_Artwork.jpg"
+  },
+  {
+    "index": "369",
+    "title": "The Infamous",
+    "artist": "Mobb Deep",
+    "link": "https://en.wikipedia.org/wiki/The_Infamous",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Mobbdeeptheinfamous1995.jpg/220px-Mobbdeeptheinfamous1995.jpg"
+  },
+  {
+    "index": "370",
+    "title": "Tha Carter II",
+    "artist": "Lil Wayne",
+    "link": "https://en.wikipedia.org/wiki/Tha_Carter_II",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Tha_Carter_2.jpg/220px-Tha_Carter_2.jpg"
+  },
+  {
+    "index": "371",
+    "title": "Anthology",
+    "artist": "The Temptations",
+    "link": "https://en.wikipedia.org/wiki/Anthology_(The_Temptations_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Temptations_anthology_cover.jpg/220px-Temptations_anthology_cover.jpg"
+  },
+  {
+    "index": "372",
+    "title": "Cheap Thrills",
+    "artist": "Big Brother and the Holding Company",
+    "link": "https://en.wikipedia.org/wiki/Cheap_Thrills_(Big_Brother_and_the_Holding_Company_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Cheapthrills.jpeg/220px-Cheapthrills.jpeg"
+  },
+  {
+    "index": "373",
+    "title": "Hot Buttered Soul",
+    "artist": "Isaac Hayes",
+    "link": "https://en.wikipedia.org/wiki/Hot_Buttered_Soul",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Isaac_Hayes%2C_Hot_Buttered_Soul_Album_Cover.jpg/220px-Isaac_Hayes%2C_Hot_Buttered_Soul_Album_Cover.jpg"
+  },
+  {
+    "index": "374",
+    "title": "King of the Delta Blues Singers",
+    "artist": "Robert Johnson",
+    "link": "https://en.wikipedia.org/wiki/King_of_the_Delta_Blues_Singers",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/KotDBS1.jpg/220px-KotDBS1.jpg"
+  },
+  {
+    "index": "375",
+    "title": "Dookie",
+    "artist": "Green Day",
+    "link": "https://en.wikipedia.org/wiki/Dookie",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Green_Day_-_Dookie_cover.jpg/220px-Green_Day_-_Dookie_cover.jpg"
+  },
+  {
+    "index": "376",
+    "title": "In the Aeroplane Over the Sea",
+    "artist": "Neutral Milk Hotel",
+    "link": "https://en.wikipedia.org/wiki/In_the_Aeroplane_Over_the_Sea",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/In_the_aeroplane_over_the_sea_album_cover_copy.jpg/220px-In_the_aeroplane_over_the_sea_album_cover_copy.jpg"
+  },
+  {
+    "index": "377",
+    "title": "Fever to Tell",
+    "artist": "Yeah Yeah Yeahs",
+    "link": "https://en.wikipedia.org/wiki/Fever_to_Tell",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Yeah_Yeah_Yeahs_-_Fever_to_Tell.png/220px-Yeah_Yeah_Yeahs_-_Fever_to_Tell.png"
+  },
+  {
+    "index": "378",
+    "title": "Run-D.M.C.",
+    "artist": "Run-DMC",
+    "link": "https://en.wikipedia.org/wiki/Run-D.M.C._(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Run-D.M.C..jpg/220px-Run-D.M.C..jpg"
+  },
+  {
+    "index": "379",
+    "title": "Moving Pictures",
+    "artist": "Rush",
+    "link": "https://en.wikipedia.org/wiki/Moving_Pictures_(Rush_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Moving_Pictures_40th_anniversary.webp/220px-Moving_Pictures_40th_anniversary.webp.png"
+  },
+  {
+    "index": "380",
+    "title": "Mingus Ah Um",
+    "artist": "Charles Mingus",
+    "link": "https://en.wikipedia.org/wiki/Mingus_Ah_Um",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Mingus_Ah_Um_-_Charles_Mingus.jpg/220px-Mingus_Ah_Um_-_Charles_Mingus.jpg"
+  },
+  {
+    "index": "381",
+    "title": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+    "artist": "Lynyrd Skynyrd",
+    "link": "https://en.wikipedia.org/wiki/(Pronounced_%27L%C4%95h-%27n%C3%A9rd_%27Skin-%27n%C3%A9rd)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Lynyrdskynyrd.jpg/220px-Lynyrdskynyrd.jpg"
+  },
+  {
+    "index": "382",
+    "title": "Currents",
+    "artist": "Tame Impala",
+    "link": "https://en.wikipedia.org/wiki/Currents_(Tame_Impala_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Tame_Impala_-_Currents.png/220px-Tame_Impala_-_Currents.png"
+  },
+  {
+    "index": "383",
+    "title": "Mezzanine",
+    "artist": "Massive Attack",
+    "link": "https://en.wikipedia.org/wiki/Mezzanine_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Massive_Attack_-_Mezzanine.png/220px-Massive_Attack_-_Mezzanine.png"
+  },
+  {
+    "index": "384",
+    "title": "The Kinks Are the Village Green Preservation Society",
+    "artist": "The Kinks",
+    "link": "https://en.wikipedia.org/wiki/The_Kinks_Are_the_Village_Green_Preservation_Society",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/The_Kinks_Are_the_Village_Green_Preservation_Society_%28Swedish_%26_original_UK_cover%29.jpg/220px-The_Kinks_Are_the_Village_Green_Preservation_Society_%28Swedish_%26_original_UK_cover%29.jpg"
+  },
+  {
+    "index": "385",
+    "title": "Rocket to Russia",
+    "artist": "Ramones",
+    "link": "https://en.wikipedia.org/wiki/Rocket_to_Russia",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Ramones_-_Rocket_to_Russia_cover.jpg/220px-Ramones_-_Rocket_to_Russia_cover.jpg"
+  },
+  {
+    "index": "386",
+    "title": "Donuts",
+    "artist": "J Dilla",
+    "link": "https://en.wikipedia.org/wiki/Donuts_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Jdilla_donuts_altLPcover.jpg/220px-Jdilla_donuts_altLPcover.jpg"
+  },
+  {
+    "index": "387",
+    "title": "In Rainbows",
+    "artist": "Radiohead",
+    "link": "https://en.wikipedia.org/wiki/In_Rainbows",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/In_Rainbows_Disk_2_Official_Cover.png/220px-In_Rainbows_Disk_2_Official_Cover.png"
+  },
+  {
+    "index": "388",
+    "title": "Young, Gifted and Black",
+    "artist": "Aretha Franklin",
+    "link": "https://en.wikipedia.org/wiki/Young,_Gifted_and_Black",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/ArethaFranklinYoung%2CGifted%26Black.jpg/220px-ArethaFranklinYoung%2CGifted%26Black.jpg"
+  },
+  {
+    "index": "389",
+    "title": "The Emancipation of Mimi",
+    "artist": "Mariah Carey",
+    "link": "https://en.wikipedia.org/wiki/The_Emancipation_of_Mimi",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Mariah_Carey_The_Emancipation_of_Mimi.png/220px-Mariah_Carey_The_Emancipation_of_Mimi.png"
+  },
+  {
+    "index": "390",
+    "title": "Surfer Rosa",
+    "artist": "Pixies",
+    "link": "https://en.wikipedia.org/wiki/Surfer_Rosa",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/SurferRosa.jpg/220px-SurferRosa.jpg"
+  },
+  {
+    "index": "391",
+    "title": "Kaleidoscope",
+    "artist": "Kelis",
+    "link": "https://en.wikipedia.org/wiki/Kaleidoscope_(Kelis_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Kelis_-_Kaleidoscope.png/220px-Kelis_-_Kaleidoscope.png"
+  },
+  {
+    "index": "392",
+    "title": "Proud Mary: The Best of Ike & Tina Turner",
+    "artist": "Ike & Tina Turner",
+    "link": "https://en.wikipedia.org/wiki/Proud_Mary:_The_Best_of_Ike_%26_Tina_Turner",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Proud_Mary_-_Ike_and_Tina_Turner.jpg/220px-Proud_Mary_-_Ike_and_Tina_Turner.jpg"
+  },
+  {
+    "index": "393",
+    "title": "1989",
+    "artist": "Taylor Swift",
+    "link": "https://en.wikipedia.org/wiki/1989_(Taylor_Swift_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Taylor_Swift_-_1989.png/220px-Taylor_Swift_-_1989.png"
+  },
+  {
+    "index": "394",
+    "title": "Diana",
+    "artist": "Diana Ross",
+    "link": "https://en.wikipedia.org/wiki/Diana_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diana_ross.jpg/220px-Diana_ross.jpg"
+  },
+  {
+    "index": "395",
+    "title": "Black Messiah",
+    "artist": "D'Angelo and the Vanguard",
+    "link": "https://en.wikipedia.org/wiki/Black_Messiah_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Black_Messiah.jpg/220px-Black_Messiah.jpg"
+  },
+  {
+    "index": "396",
+    "title": "Something/Anything?",
+    "artist": "Todd Rundgren",
+    "link": "https://en.wikipedia.org/wiki/Something/Anything%3F",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Somethinganythingcover.jpg/220px-Somethinganythingcover.jpg"
+  },
+  {
+    "index": "397",
+    "title": "When We All Fall Asleep, Where Do We Go?",
+    "artist": "Billie Eilish",
+    "link": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png/220px-When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png"
+  },
+  {
+    "index": "398",
+    "title": "The Raincoats",
+    "artist": "The Raincoats",
+    "link": "https://en.wikipedia.org/wiki/The_Raincoats_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Raincoatscover.jpg/220px-Raincoatscover.jpg"
+  },
+  {
+    "index": "399",
+    "title": "Brian Wilson Presents Smile",
+    "artist": "Brian Wilson",
+    "link": "https://en.wikipedia.org/wiki/Brian_Wilson_Presents_Smile",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/SmileBW04.jpg/220px-SmileBW04.jpg"
+  },
+  {
+    "index": "400",
+    "title": "Beauty and the Beat",
+    "artist": "The Go-Go's",
+    "link": "https://en.wikipedia.org/wiki/Beauty_and_the_Beat_(The_Go-Go%27s_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/The_Go-Go%27sBeautyandtheBeatalbumcover.jpg/220px-The_Go-Go%27sBeautyandtheBeatalbumcover.jpg"
+  },
+  {
+    "index": "401",
+    "title": "Blondie",
+    "artist": "Blondie",
+    "link": "https://en.wikipedia.org/wiki/Blondie_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Blondie_album_cover.jpg/220px-Blondie_album_cover.jpg"
+  },
+  {
+    "index": "402",
+    "title": "Expensive Shit",
+    "artist": "Fela Kuti and Africa '70",
+    "link": "https://en.wikipedia.org/wiki/Expensive_Shit",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/37/ExpensiveFelaKuti.jpg"
+  },
+  {
+    "index": "403",
+    "title": "Supreme Clientele",
+    "artist": "Ghostface Killah",
+    "link": "https://en.wikipedia.org/wiki/Supreme_Clientele",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/GhostfaceKillahSupremeClientele.jpg/220px-GhostfaceKillahSupremeClientele.jpg"
+  },
+  {
+    "index": "404",
+    "title": "Rapture",
+    "artist": "Anita Baker",
+    "link": "https://en.wikipedia.org/wiki/Rapture_(Anita_Baker_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Anita_Baker_-_Rapture.jpg/220px-Anita_Baker_-_Rapture.jpg"
+  },
+  {
+    "index": "405",
+    "title": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+    "artist": "Various artists",
+    "link": "https://en.wikipedia.org/wiki/Nuggets:_Original_Artyfacts_from_the_First_Psychedelic_Era,_1965%E2%80%931968",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Nuggets%2C_Volume_1.jpg/220px-Nuggets%2C_Volume_1.jpg"
+  },
+  {
+    "index": "406",
+    "title": "69 Love Songs",
+    "artist": "The Magnetic Fields",
+    "link": "https://en.wikipedia.org/wiki/69_Love_Songs",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/The_Magnetic_Fields_-_69_Love_Songs.jpg/220px-The_Magnetic_Fields_-_69_Love_Songs.jpg"
+  },
+  {
+    "index": "407",
+    "title": "Everybody Knows This Is Nowhere",
+    "artist": "Neil Young",
+    "link": "https://en.wikipedia.org/wiki/Everybody_Knows_This_Is_Nowhere",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/EverybodyKnowsThisIsNowhere.jpg/220px-EverybodyKnowsThisIsNowhere.jpg"
+  },
+  {
+    "index": "408",
+    "title": "Ace of Spades",
+    "artist": "Motörhead",
+    "link": "https://en.wikipedia.org/wiki/Ace_of_Spades_(Mot%C3%B6rhead_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Mot%C3%B6rhead_-_Ace_of_Spades_%282005%29.jpg/220px-Mot%C3%B6rhead_-_Ace_of_Spades_%282005%29.jpg"
+  },
+  {
+    "index": "409",
+    "title": "Workingman's Dead",
+    "artist": "Grateful Dead",
+    "link": "https://en.wikipedia.org/wiki/Workingman%27s_Dead",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grateful_Dead_-_Workingman%27s_Dead.jpg/220px-Grateful_Dead_-_Workingman%27s_Dead.jpg"
+  },
+  {
+    "index": "410",
+    "title": "Wild Honey",
+    "artist": "The Beach Boys",
+    "link": "https://en.wikipedia.org/wiki/Wild_Honey_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Wild_honey_beach_boys.jpg/220px-Wild_honey_beach_boys.jpg"
+  },
+  {
+    "index": "411",
+    "title": "Love and Theft",
+    "artist": "Bob Dylan",
+    "link": "https://en.wikipedia.org/wiki/Love_and_Theft_(Bob_Dylan_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Bob_Dylan_-_Love_and_Theft.jpg/220px-Bob_Dylan_-_Love_and_Theft.jpg"
+  },
+  {
+    "index": "412",
+    "title": "Going to a Go-Go",
+    "artist": "Smokey Robinson",
+    "link": "https://en.wikipedia.org/wiki/Going_to_a_Go-Go",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Miraclesgoingtoagogo.jpg/220px-Miraclesgoingtoagogo.jpg"
+  },
+  {
+    "index": "413",
+    "title": "Cosmo's Factory",
+    "artist": "Creedence Clearwater Revival",
+    "link": "https://en.wikipedia.org/wiki/Cosmo%27s_Factory",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Creedence_Clearwater_Revival_-_Cosmo%27s_Factory.jpg/220px-Creedence_Clearwater_Revival_-_Cosmo%27s_Factory.jpg"
+  },
+  {
+    "index": "414",
+    "title": "Risqué",
+    "artist": "Chic",
+    "link": "https://en.wikipedia.org/wiki/Risqu%C3%A9_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Chic-Risque.jpg/220px-Chic-Risque.jpg"
+  },
+  {
+    "index": "415",
+    "title": "Look-Ka Py Py",
+    "artist": "The Meters",
+    "link": "https://en.wikipedia.org/wiki/Look-Ka_Py_Py",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Lookyapypymeters.jpg/220px-Lookyapypymeters.jpg"
+  },
+  {
+    "index": "416",
+    "title": "Things Fall Apart",
+    "artist": "The Roots",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Things_Fall_Apart_41172.jpg/220px-Things_Fall_Apart_41172.jpg"
+  },
+  {
+    "index": "417",
+    "title": "The Shape of Jazz to Come",
+    "artist": "Ornette Coleman",
+    "link": "https://en.wikipedia.org/wiki/The_Shape_of_Jazz_to_Come",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/ShapeOfJazzToCome.jpg/220px-ShapeOfJazzToCome.jpg"
+  },
+  {
+    "index": "418",
+    "title": "Brothers in Arms",
+    "artist": "Dire Straits",
+    "link": "https://en.wikipedia.org/wiki/Brothers_in_Arms_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/DS_Brothers_in_Arms.jpg/220px-DS_Brothers_in_Arms.jpg"
+  },
+  {
+    "index": "419",
+    "title": "Chief",
+    "artist": "Eric Church",
+    "link": "https://en.wikipedia.org/wiki/Chief_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Eric_Church_Chief.jpg/220px-Eric_Church_Chief.jpg"
+  },
+  {
+    "index": "420",
+    "title": "That's the Way of the World",
+    "artist": "Earth, Wind & Fire",
+    "link": "https://en.wikipedia.org/wiki/That%27s_the_Way_of_the_World",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Whiskeytown-Stranger%27s_Almanac_%28album_cover%29.jpg/220px-Whiskeytown-Stranger%27s_Almanac_%28album_cover%29.jpg"
+  },
+  {
+    "index": "421",
+    "title": "Arular",
+    "artist": "M.I.A.",
+    "link": "https://en.wikipedia.org/wiki/Arular",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/M.I.A._-_Arular.png/220px-M.I.A._-_Arular.png"
+  },
+  {
+    "index": "422",
+    "title": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "link": "https://en.wikipedia.org/wiki/Let%27s_Get_It_On",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Let%27s_Get_It_On.jpg/220px-Let%27s_Get_It_On.jpg"
+  },
+  {
+    "index": "423",
+    "title": "I Can Hear the Heart Beating as One",
+    "artist": "Yo La Tengo",
+    "link": "https://en.wikipedia.org/wiki/I_Can_Hear_the_Heart_Beating_as_One",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/I_Can_Hear_the_Heart_Beating_as_One.png/220px-I_Can_Hear_the_Heart_Beating_as_One.png"
+  },
+  {
+    "index": "424",
+    "title": "Odelay",
+    "artist": "Beck",
+    "link": "https://en.wikipedia.org/wiki/Odelay",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Odelay-deluxe-cover.jpg/220px-Odelay-deluxe-cover.jpg"
+  },
+  {
+    "index": "425",
+    "title": "Paul Simon",
+    "artist": "Paul Simon",
+    "link": "https://en.wikipedia.org/wiki/Paul_Simon_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/PaulSimon-Front.jpg/220px-PaulSimon-Front.jpg"
+  },
+  {
+    "index": "426",
+    "title": "Lucinda Williams",
+    "artist": "Lucinda Williams",
+    "link": "https://en.wikipedia.org/wiki/Lucinda_Williams_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Lucinda_williams_cover.jpg/220px-Lucinda_williams_cover.jpg"
+  },
+  {
+    "index": "427",
+    "title": "Call Me",
+    "artist": "Al Green",
+    "link": "https://en.wikipedia.org/wiki/Call_Me_(Al_Green_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/AlGreenCallMe.jpg/220px-AlGreenCallMe.jpg"
+  },
+  {
+    "index": "428",
+    "title": "New Day Rising",
+    "artist": "Hüsker Dü",
+    "link": "https://en.wikipedia.org/wiki/New_Day_Rising",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/HuskerDuNewDayRising.jpg/220px-HuskerDuNewDayRising.jpg"
+  },
+  {
+    "index": "429",
+    "title": "Reach Out",
+    "artist": "Four Tops",
+    "link": "https://en.wikipedia.org/wiki/Reach_Out_(Four_Tops_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Fourtops-reachout-album.jpg/220px-Fourtops-reachout-album.jpg"
+  },
+  {
+    "index": "430",
+    "title": "Un Verano Sin Ti",
+    "artist": "Bad Bunny",
+    "link": "https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Bad_Bunny_-_Un_Verano_Sin_Ti.png/220px-Bad_Bunny_-_Un_Verano_Sin_Ti.png"
+  },
+  {
+    "index": "431",
+    "title": "How Will the Wolf Survive?",
+    "artist": "Los Lobos",
+    "link": "https://en.wikipedia.org/wiki/How_Will_the_Wolf_Survive%3F",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Howwillthewolfsurvive.jpg/220px-Howwillthewolfsurvive.jpg"
+  },
+  {
+    "index": "432",
+    "title": "Confessions",
+    "artist": "Usher",
+    "link": "https://en.wikipedia.org/wiki/Confessions_(Usher_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Usher-Confessions.jpg/220px-Usher-Confessions.jpg"
+  },
+  {
+    "index": "433",
+    "title": "Sound of Silver",
+    "artist": "LCD Soundsystem",
+    "link": "https://en.wikipedia.org/wiki/Sound_of_Silver",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/ca/A_bunch_of_stuff_cover.jpg"
+  },
+  {
+    "index": "434",
+    "title": "Crooked Rain, Crooked Rain",
+    "artist": "Pavement",
+    "link": "https://en.wikipedia.org/wiki/Crooked_Rain,_Crooked_Rain",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Pavement_Crooked_Rain.jpg/220px-Pavement_Crooked_Rain.jpg"
+  },
+  {
+    "index": "435",
+    "title": "Actually",
+    "artist": "Pet Shop Boys",
+    "link": "https://en.wikipedia.org/wiki/Actually",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Pet_Shop_Boys_-_Actually.png/220px-Pet_Shop_Boys_-_Actually.png"
+  },
+  {
+    "index": "436",
+    "title": "All Eyez on Me",
+    "artist": "2Pac",
+    "link": "https://en.wikipedia.org/wiki/All_Eyez_on_Me",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Alleyezonme.jpg/220px-Alleyezonme.jpg"
+  },
+  {
+    "index": "437",
+    "title": "Demon Days",
+    "artist": "Gorillaz",
+    "link": "https://en.wikipedia.org/wiki/Demon_Days",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Gorillaz_Demon_Days.PNG/220px-Gorillaz_Demon_Days.PNG"
+  },
+  {
+    "index": "438",
+    "title": "Parklife",
+    "artist": "Blur",
+    "link": "https://en.wikipedia.org/wiki/Parklife",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/BlurParklife.jpg/220px-BlurParklife.jpg"
+  },
+  {
+    "index": "439",
+    "title": "Sex Machine",
+    "artist": "James Brown",
+    "link": "https://en.wikipedia.org/wiki/Sex_Machine_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Sex_Machine_album_cover.jpg/220px-Sex_Machine_album_cover.jpg"
+  },
+  {
+    "index": "440",
+    "title": "Coal Miner's Daughter",
+    "artist": "Loretta Lynn",
+    "link": "https://en.wikipedia.org/wiki/Coal_Miner%27s_Daughter_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Loretta_Lynn-Coal_Miner%27s_Daughter_2.jpg/220px-Loretta_Lynn-Coal_Miner%27s_Daughter_2.jpg"
+  },
+  {
+    "index": "441",
+    "title": "Blackout",
+    "artist": "Britney Spears",
+    "link": "https://en.wikipedia.org/wiki/Blackout_(Britney_Spears_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Britney_Spears_-_Blackout.png/220px-Britney_Spears_-_Blackout.png"
+  },
+  {
+    "index": "442",
+    "title": "Beauty Behind the Madness",
+    "artist": "The Weeknd",
+    "link": "https://en.wikipedia.org/wiki/Beauty_Behind_the_Madness",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png/220px-The_Weeknd_-_Beauty_Behind_the_Madness.png"
+  },
+  {
+    "index": "443",
+    "title": "Scary Monsters (and Super Creeps)",
+    "artist": "David Bowie",
+    "link": "https://en.wikipedia.org/wiki/Scary_Monsters_(and_Super_Creeps)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/DavidBowieScaryMonstersCover.jpg/220px-DavidBowieScaryMonstersCover.jpg"
+  },
+  {
+    "index": "444",
+    "title": "Extraordinary Machine",
+    "artist": "Fiona Apple",
+    "link": "https://en.wikipedia.org/wiki/Extraordinary_Machine",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Extraordinary_Machine.jpg/220px-Extraordinary_Machine.jpg"
+  },
+  {
+    "index": "445",
+    "title": "Close to the Edge",
+    "artist": "Yes",
+    "link": "https://en.wikipedia.org/wiki/Close_to_the_Edge",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Close_to_the_Edge_The_Steven_Wilson_Remixes.jpg/220px-Close_to_the_Edge_The_Steven_Wilson_Remixes.jpg"
+  },
+  {
+    "index": "446",
+    "title": "Journey in Satchidananda",
+    "artist": "Alice Coltrane",
+    "link": "https://en.wikipedia.org/wiki/Journey_in_Satchidananda",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Journey_in_Satchidananda_%28Alice_Coltrane%29.jpg/220px-Journey_in_Satchidananda_%28Alice_Coltrane%29.jpg"
+  },
+  {
+    "index": "447",
+    "title": "X 100pre",
+    "artist": "Bad Bunny",
+    "link": "https://en.wikipedia.org/wiki/X_100pre",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/X100pre.jpg/220px-X100pre.jpg"
+  },
+  {
+    "index": "448",
+    "title": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+    "artist": "Otis Redding",
+    "link": "https://en.wikipedia.org/wiki/Complete_%26_Unbelievable:_The_Otis_Redding_Dictionary_of_Soul",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Otisreddingdictionary.jpg/220px-Otisreddingdictionary.jpg"
+  },
+  {
+    "index": "449",
+    "title": "Elephant",
+    "artist": "The White Stripes",
+    "link": "https://en.wikipedia.org/wiki/Elephant_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Elephant%2C_The_White_Stripes.png/220px-Elephant%2C_The_White_Stripes.png"
+  },
+  {
+    "index": "450",
+    "title": "Ram",
+    "artist": "Paul McCartney and Linda McCartney",
+    "link": "https://en.wikipedia.org/wiki/Ram_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/RamMcCartneyalbumcover.jpg/220px-RamMcCartneyalbumcover.jpg"
+  },
+  {
+    "index": "451",
+    "title": "First Take",
+    "artist": "Roberta Flack",
+    "link": "https://en.wikipedia.org/wiki/First_Take_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/fe/Flack.first.take.jpg"
+  },
+  {
+    "index": "452",
+    "title": "Anthology",
+    "artist": "The Supremes",
+    "link": "https://en.wikipedia.org/wiki/Anthology_(The_Supremes_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/The_Supremes_-_Anthology.png/220px-The_Supremes_-_Anthology.png"
+  },
+  {
+    "index": "453",
+    "title": "Pretty Hate Machine",
+    "artist": "Nine Inch Nails",
+    "link": "https://en.wikipedia.org/wiki/Pretty_Hate_Machine",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Pretty-Hate-Machine-Remaster.jpeg/220px-Pretty-Hate-Machine-Remaster.jpeg"
+  },
+  {
+    "index": "454",
+    "title": "Ege Bamyası",
+    "artist": "Can",
+    "link": "https://en.wikipedia.org/wiki/Ege_Bamyas%C4%B1",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Egebamyasialbumcover.jpg/220px-Egebamyasialbumcover.jpg"
+  },
+  {
+    "index": "455",
+    "title": "Bo Diddley/Go Bo Diddley",
+    "artist": "Bo Diddley",
+    "link": "https://en.wikipedia.org",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Egebamyasialbumcover.jpg/220px-Egebamyasialbumcover.jpg"
+  },
+  {
+    "index": "456",
+    "title": "Al Green's Greatest Hits",
+    "artist": "Al Green",
+    "link": "https://en.wikipedia.org/wiki/Al_Green%27s_Greatest_Hits",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/9d/Deluxeedition.jpg"
+  },
+  {
+    "index": "457",
+    "title": "I Do Not Want What I Haven't Got",
+    "artist": "Sinéad O'Connor",
+    "link": "https://en.wikipedia.org/wiki/I_Do_Not_Want_What_I_Haven%27t_Got",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Idonotwantwhatihaventgot.jpg/220px-Idonotwantwhatihaventgot.jpg"
+  },
+  {
+    "index": "458",
+    "title": "Southeastern",
+    "artist": "Jason Isbell",
+    "link": "https://en.wikipedia.org/wiki/Southeastern_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Southeasternjasonisbell.jpg/220px-Southeasternjasonisbell.jpg"
+  },
+  {
+    "index": "459",
+    "title": "Man on the Moon: The End of Day",
+    "artist": "Kid Cudi",
+    "link": "https://en.wikipedia.org/wiki/Man_on_the_Moon:_The_End_of_Day",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Kid_Cudi_-_Man_on_the_Moon_The_End_of_Day_alternate_album_cover.jpg/220px-Kid_Cudi_-_Man_on_the_Moon_The_End_of_Day_alternate_album_cover.jpg"
+  },
+  {
+    "index": "460",
+    "title": "Melodrama",
+    "artist": "Lorde",
+    "link": "https://en.wikipedia.org/wiki/Melodrama_(Lorde_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Lorde_-_Melodrama.png/220px-Lorde_-_Melodrama.png"
+  },
+  {
+    "index": "461",
+    "title": "For Emma, Forever Ago",
+    "artist": "Bon Iver",
+    "link": "https://en.wikipedia.org/wiki/For_Emma,_Forever_Ago",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Originalforemmacover.jpg/220px-Originalforemmacover.jpg"
+  },
+  {
+    "index": "462",
+    "title": "The Gilded Palace of Sin",
+    "artist": "The Flying Burrito Brothers",
+    "link": "https://en.wikipedia.org/wiki/The_Gilded_Palace_of_Sin",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/The_Gilded_Palace_of_Sin.jpg/220px-The_Gilded_Palace_of_Sin.jpg"
+  },
+  {
+    "index": "463",
+    "title": "Eli and the Thirteenth Confession",
+    "artist": "Laura Nyro",
+    "link": "https://en.wikipedia.org/wiki/Eli_and_the_Thirteenth_Confession",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Eli-and-the-thirteenth-confession.png/220px-Eli-and-the-thirteenth-confession.png"
+  },
+  {
+    "index": "464",
+    "title": "3 + 3",
+    "artist": "The Isley Brothers",
+    "link": "https://en.wikipedia.org/wiki/3_%2B_3",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Isley_brothers_3_%2B_3_album.jpg/220px-Isley_brothers_3_%2B_3_album.jpg"
+  },
+  {
+    "index": "465",
+    "title": "The Best of the Classic Years",
+    "artist": "King Sunny Adé",
+    "link": "https://en.wikipedia.org/wiki/The_Best_of_the_Classic_Years",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/King_sunny_ade_classic_years.jpeg/220px-King_sunny_ade_classic_years.jpeg"
+  },
+  {
+    "index": "466",
+    "title": "Red",
+    "artist": "Black Uhuru",
+    "link": "https://en.wikipedia.org/wiki/Red_(Black_Uhuru_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Black_Uhuru_-_Red.jpg/220px-Black_Uhuru_-_Red.jpg"
+  },
+  {
+    "index": "467",
+    "title": "BLACKsummers'night",
+    "artist": "Maxwell",
+    "link": "https://en.wikipedia.org/wiki/BLACKsummers%27night",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Maxwell-BLACKsummersnight.jpg/220px-Maxwell-BLACKsummersnight.jpg"
+  },
+  {
+    "index": "468",
+    "title": "Some Girls",
+    "artist": "The Rolling Stones",
+    "link": "https://en.wikipedia.org/wiki/Some_Girls",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Some_Girls.png/220px-Some_Girls.png"
+  },
+  {
+    "index": "469",
+    "title": "Clandestino",
+    "artist": "Manu Chao",
+    "link": "https://en.wikipedia.org/wiki/Clandestino",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/31/Manu_Chao_Clandestino.jpg"
+  },
+  {
+    "index": "470",
+    "title": "400 Degreez",
+    "artist": "Juvenile",
+    "link": "https://en.wikipedia.org/wiki/400_Degreez",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Juvenile400Degreez.jpg/220px-Juvenile400Degreez.jpg"
+  },
+  {
+    "index": "471",
+    "title": "Surrealistic Pillow",
+    "artist": "Jefferson Airplane",
+    "link": "https://en.wikipedia.org/wiki/Surrealistic_Pillow",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Jeffair.jpg/220px-Jeffair.jpg"
+  },
+  {
+    "index": "472",
+    "title": "Ctrl",
+    "artist": "SZA",
+    "link": "https://en.wikipedia.org/wiki/Ctrl_(SZA_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/SZA_-_Ctrl_cover.png/220px-SZA_-_Ctrl_cover.png"
+  },
+  {
+    "index": "473",
+    "title": "Barrio Fino",
+    "artist": "Daddy Yankee",
+    "link": "https://en.wikipedia.org/wiki/Barrio_Fino",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Barrio_Fino.jpg/220px-Barrio_Fino.jpg"
+  },
+  {
+    "index": "474",
+    "title": "#1 Record",
+    "artist": "Big Star",
+    "link": "https://en.wikipedia.org/wiki/Number_1_Record",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Big_Star_-1_Record.jpg/220px-Big_Star_-1_Record.jpg"
+  },
+  {
+    "index": "475",
+    "title": "Sheryl Crow",
+    "artist": "Sheryl Crow",
+    "link": "https://en.wikipedia.org/wiki/Sheryl_Crow_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Sheryl_Crow%2C_album.png/220px-Sheryl_Crow%2C_album.png"
+  },
+  {
+    "index": "476",
+    "title": "Kimono My House",
+    "artist": "Sparks",
+    "link": "https://en.wikipedia.org/wiki/Kimono_My_House",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Kimono_My_House_-_Sparks.jpg/220px-Kimono_My_House_-_Sparks.jpg"
+  },
+  {
+    "index": "477",
+    "title": "Moanin' in the Moonlight",
+    "artist": "Howlin' Wolf",
+    "link": "https://en.wikipedia.org/wiki/Moanin%27_in_the_Moonlight",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Howlin%27_Wolf_Moanin%27_in_the_Moonlight.jpg/220px-Howlin%27_Wolf_Moanin%27_in_the_Moonlight.jpg"
+  },
+  {
+    "index": "478",
+    "title": "Something Else by the Kinks",
+    "artist": "The Kinks",
+    "link": "https://en.wikipedia.org/wiki/Something_Else_by_the_Kinks",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/SomethingElseKinksCover.jpg/220px-SomethingElseKinksCover.jpg"
+  },
+  {
+    "index": "479",
+    "title": "Amor Prohibido",
+    "artist": "Selena",
+    "link": "https://en.wikipedia.org/wiki/Amor_Prohibido",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Selena_-_Amor_Prohibido.png/220px-Selena_-_Amor_Prohibido.png"
+  },
+  {
+    "index": "480",
+    "title": "The Weight of These Wings",
+    "artist": "Miranda Lambert",
+    "link": "https://en.wikipedia.org/wiki/The_Weight_of_These_Wings",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Lambert_wings.jpg/220px-Lambert_wings.jpg"
+  },
+  {
+    "index": "481",
+    "title": "If You're Feeling Sinister",
+    "artist": "Belle and Sebastian",
+    "link": "https://en.wikipedia.org/wiki/If_You%27re_Feeling_Sinister",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Belle_And_Sebastian_-_If_You%27re_Feeling_Sinister.jpg/220px-Belle_And_Sebastian_-_If_You%27re_Feeling_Sinister.jpg"
+  },
+  {
+    "index": "482",
+    "title": "Bizarre Ride II the Pharcyde",
+    "artist": "The Pharcyde",
+    "link": "https://en.wikipedia.org/wiki/Bizarre_Ride_II_the_Pharcyde",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/BizarreRideIIthePharcyde.jpg/220px-BizarreRideIIthePharcyde.jpg"
+  },
+  {
+    "index": "483",
+    "title": "The Anthology: 1947–1972",
+    "artist": "Muddy Waters",
+    "link": "https://en.wikipedia.org/wiki/The_Anthology:_1947%E2%80%931972",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e2/MuddyWatersAnthology.jpg"
+  },
+  {
+    "index": "484",
+    "title": "Born This Way",
+    "artist": "Lady Gaga",
+    "link": "https://en.wikipedia.org/wiki/Born_This_Way_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Born_This_Way_album_cover.png/220px-Born_This_Way_album_cover.png"
+  },
+  {
+    "index": "485",
+    "title": "I Want to See the Bright Lights Tonight",
+    "artist": "Richard Thompson and Linda Thompson",
+    "link": "https://en.wikipedia.org/wiki/I_Want_to_See_the_Bright_Lights_Tonight",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/I_Want_to_See_the_Bright_Lights_Tonight_%28Richard_Thompson_album_-_cover_art%29.jpg/220px-I_Want_to_See_the_Bright_Lights_Tonight_%28Richard_Thompson_album_-_cover_art%29.jpg"
+  },
+  {
+    "index": "486",
+    "title": "Continuum",
+    "artist": "John Mayer",
+    "link": "https://en.wikipedia.org/wiki/Continuum_(John_Mayer_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Continuum_by_John_Mayer_standard_non-US_artwork.png/220px-Continuum_by_John_Mayer_standard_non-US_artwork.png"
+  },
+  {
+    "index": "487",
+    "title": "Damaged",
+    "artist": "Black Flag",
+    "link": "https://en.wikipedia.org/wiki/Damaged_(Black_Flag_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Black_Flag_-_Damaged_cover.jpg/220px-Black_Flag_-_Damaged_cover.jpg"
+  },
+  {
+    "index": "488",
+    "title": "The Stooges",
+    "artist": "The Stooges",
+    "link": "https://en.wikipedia.org/wiki/The_Stooges_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_cover_art_for_the_2020_reissue_of_The_Stooges_1969_debut_album.png/220px-The_cover_art_for_the_2020_reissue_of_The_Stooges_1969_debut_album.png"
+  },
+  {
+    "index": "489",
+    "title": "Back to Mono (1958–1969)",
+    "artist": "Various artists",
+    "link": "https://en.wikipedia.org/wiki/Back_to_Mono_(1958%E2%80%931969)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/ba/Backtomono.jpg"
+  },
+  {
+    "index": "490",
+    "title": "Heart Like a Wheel",
+    "artist": "Linda Ronstadt",
+    "link": "https://en.wikipedia.org/wiki/Heart_Like_a_Wheel",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/bd/Heart_Like_a_Wheel_Ronstadt.jpg"
+  },
+  {
+    "index": "491",
+    "title": "Harry's House",
+    "artist": "Harry Styles",
+    "link": "https://en.wikipedia.org/wiki/Harry%27s_House",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Harry_Styles_-_Harry%27s_House.png/220px-Harry_Styles_-_Harry%27s_House.png"
+  },
+  {
+    "index": "492",
+    "title": "Nick of Time",
+    "artist": "Bonnie Raitt",
+    "link": "https://en.wikipedia.org/wiki/Nick_of_Time_(album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Bonnie_Raitt_-_Nick_of_Time.png/220px-Bonnie_Raitt_-_Nick_of_Time.png"
+  },
+  {
+    "index": "493",
+    "title": "Here, My Dear",
+    "artist": "Marvin Gaye",
+    "link": "https://en.wikipedia.org/wiki/Here,_My_Dear",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Marvinhere-my-dear.jpg/220px-Marvinhere-my-dear.jpg"
+  },
+  {
+    "index": "494",
+    "title": "Presenting the Fabulous Ronettes Featuring Veronica",
+    "artist": "The Ronettes",
+    "link": "https://en.wikipedia.org/wiki/Presenting_the_Fabulous_Ronettes_Featuring_Veronica",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Ronettes.jpg/220px-Ronettes.jpg"
+  },
+  {
+    "index": "495",
+    "title": "II",
+    "artist": "Boyz II Men",
+    "link": "https://en.wikipedia.org/wiki/II_(Boyz_II_Men_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b9/BoyzIIMen-II-Cover.jpg"
+  },
+  {
+    "index": "496",
+    "title": "¿Dónde Están los Ladrones?",
+    "artist": "Shakira",
+    "link": "https://en.wikipedia.org/wiki/D%C3%B3nde_Est%C3%A1n_los_Ladrones%3F",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/DondeEstanlosLadrones.jpg/220px-DondeEstanlosLadrones.jpg"
+  },
+  {
+    "index": "497",
+    "title": "The Indestructible Beat of Soweto",
+    "artist": "Various artists",
+    "link": "https://en.wikipedia.org/wiki/The_Indestructible_Beat_of_Soweto",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Indestructiblebeat.jpg/220px-Indestructiblebeat.jpg"
+  },
+  {
+    "index": "498",
+    "title": "Suicide",
+    "artist": "Suicide",
+    "link": "https://en.wikipedia.org/wiki/Suicide_(1977_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Suicide1977.jpg/220px-Suicide1977.jpg"
+  },
+  {
+    "index": "499",
+    "title": "Ask Rufus",
+    "artist": "Rufus featuring Chaka Khan",
+    "link": "https://en.wikipedia.org/wiki/Ask_Rufus",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b9/Rufus_-_Ask_Rufus.jpg"
+  },
+  {
+    "index": "500",
+    "title": "Funeral",
+    "artist": "Arcade Fire",
+    "link": "https://en.wikipedia.org/wiki/Funeral_(Arcade_Fire_album)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/ArcadeFireFuneralCover.jpg/220px-ArcadeFireFuneralCover.jpg"
+  }
+]
