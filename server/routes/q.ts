@@ -28,5 +28,13 @@ export default defineEventHandler(() => {
     right: index === rightIndex,
   }))
 
-  return quiz
+  const quiz2: Quiz = selectedAlbums.map((album, index) => ({
+    index: String(index),
+    title: album.title,
+    artist: album.artist,
+    cover: album.cover,
+    right: index === rightIndex,
+  }))
+
+  return [quiz, quiz2]
 })

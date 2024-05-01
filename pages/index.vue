@@ -1,18 +1,21 @@
 <template>
-  <div class="mx-4 pt-4 text-white h-screen sm:grid place-content-center">
-    <div
-      class="flex flex-col sm:flex-row justify-center w-full gap-8 sm:gap-24"
-    >
+  <div>
+    <div>
       <CardStack
-        :a="[getRightAlbum(quizAlbums).cover]"
+        v-if="quizAlbums?.length"
+        :a="[getRightAlbum(quizAlbums[currentRound]).cover]"
         :show-button="false"
-        test
+        :blur="rightAnswered === 'yet'"
+        class="mt-4"
       />
-      <div class="flex flex-col justify-between">
-        <div>
+      <div
+        class="absolute mt-[350px] mx-auto top-0 left-0 bottom-0 right-0 w-[80%]"
+      >
+        <div v-if="quizAlbums?.length">
           <AnswerOptions
-            :quiz-albums="quizAlbums"
-            :right-album="getRightAlbum(quizAlbums)"
+            v-if="quizAlbums[currentRound]"
+            :quiz-albums="quizAlbums[currentRound]"
+            :right-album="getRightAlbum(quizAlbums[currentRound])"
           />
         </div>
         <UButton
@@ -40,7 +43,8 @@ export type Album = {
   right: boolean
 }
 
-const { data: quizAlbums } = await useFetch<Album[]>('/q')
+const { data: quizAlbums } = await useFetch<Array<Album[]>>('/q')
+const currentRound = useCurrentRound()
 const rightAnswered = useRightAnswered()
 function getRightAlbum(albums: Album[] | null): Album {
   if (!albums)
@@ -54,8 +58,6 @@ function getRightAlbum(albums: Album[] | null): Album {
     }
   return albums.find((album) => album.right) || albums[0]
 }
-
-const albumCovers = [getRightAlbum(quizAlbums.value).cover]
 
 function reload() {
   rightAnswered.value = 'yet'
