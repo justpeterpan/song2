@@ -1,45 +1,37 @@
 <template>
-  <div
-    v-for="album in quizAlbums"
-    :key="album.index"
-    class="min-w-full sm:min-w-[350px] max-w-[350px] mb-2"
+  <UButton
+    :color="buttonColor"
+    variant="solid"
+    class="w-full text-left"
+    size="xl"
   >
-    <UButton
-      :color="
-        album.index === rightAlbum.index &&
-        (rightAnswered === 'yes' || rightAnswered === 'no')
-          ? 'green'
-          : album.index === pickedAlbum && rightAnswered === 'no'
-          ? 'red'
-          : 'gray'
-      "
-      variant="solid"
-      class="w-full text-left"
-      size="xl"
-      @click="pickAlbum(album.index)"
-    >
-      {{ album.artist }} - {{ album.title }}</UButton
-    >
-  </div>
+    {{ props.album.artist }} - {{ props.album.title }}</UButton
+  >
 </template>
 
 <script lang="ts" setup>
-import type { Album } from '~/pages/index.vue'
+export type Album = {
+  index: string
+  title: string
+  artist: string
+  link: string
+  cover: string
+  right: boolean
+}
 
+const props = defineProps<{ album: Album; rightAlbum: Album }>()
 const pickedAlbum = usePickedAlbum()
 const rightAnswered = useRightAnswered()
 
-const props = defineProps<{
-  quizAlbums: Album[] | null
-  rightAlbum: Album
-}>()
+const buttonColor = computed(() => {
+  if (
+    props.album.index === props.rightAlbum.index &&
+    (rightAnswered.value === 'yes' || rightAnswered.value === 'no')
+  )
+    return 'green'
 
-function pickAlbum(index: string) {
-  pickedAlbum.value = index
-  if (pickedAlbum.value === props.rightAlbum.index) {
-    rightAnswered.value = 'yes'
-  } else {
-    rightAnswered.value = 'no'
-  }
-}
+  if (props.album.index === pickedAlbum.value && rightAnswered.value === 'no')
+    return 'red'
+  return 'gray'
+})
 </script>
