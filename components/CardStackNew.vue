@@ -1,28 +1,29 @@
 <template>
   <div class="container">
-    <button
-      @click="removeCard"
-      class="mb-10 ml-[140px] p-2 bg-amber-200 text-black rounded-3xl"
-    >
-      ✦
-    </button>
     <ClientOnly>
       <TransitionGroup tag="div" class="relative w-fit" name="list">
-        <img
-          v-for="(card, index) in cards"
-          class="absolute min-w-80 min-h-80 border border-black rounded-2xl bg-violet-300 album transition-all duration-500 ease-in-out"
-          :class="getCardStyle(index)"
-          :key="card"
-          :src="card"
-          alt="Album cover"
-        />
+        <div v-for="(card, index) in cards" :key="card">
+          <img
+            class="absolute min-w-80 min-h-80 rounded-2xl album transition-all duration-500 ease-in-out"
+            :class="getCardStyle(index)"
+            :key="card"
+            :src="card"
+            alt="Album cover"
+          />
+          <div
+            class="absolute min-w-80 min-h-80 rounded-2xl album transition-all duration-500 ease-in-out"
+            :class="getCardStyle(index) + ' ' + backDrop(index)"
+            :key="card"
+          />
+        </div>
       </TransitionGroup>
     </ClientOnly>
   </div>
 </template>
 
 <script setup lang="ts">
-import confetti from 'canvas-confetti'
+const currentRound = useCurrentRound()
+const rightAnswered = useRightAnswered()
 
 const props = defineProps<{
   covers: string[] | undefined
@@ -54,36 +55,43 @@ const cardsOld = ref([
   },
 ])
 
-const cards = toRef(props.covers)
-
-function randomInRange(min: number, max: number) {
-  return Math.random() * (max - min) + min
-}
-
-function wow() {
-  confetti({
-    angle: randomInRange(55, 125),
-    spread: randomInRange(50, 70),
-    particleCount: randomInRange(50, 100),
-  })
-}
+const cards = toRef(props.covers?.reverse())
 
 const initialCount = cards.value?.length
 const adjustedIndex = (index: number) =>
   index + (initialCount! - cards.value?.length!)
 
+function backDrop(index: number) {
+  console.log(
+    rightAnswered.value,
+    cards.value?.length! - 1,
+    index,
+    rightAnswered.value === 'yes' && index === cards.value?.length! - 1
+  )
+  if (index !== cards.value?.length! - 1) return 'backdrop-blur-xl'
+  const hasBackdrop =
+    rightAnswered.value === 'yet' && index === cards.value?.length! - 1
+      ? 'backdrop-blur-lg'
+      : 'backdrop-blur-none'
+
+  return hasBackdrop
+}
+
 function getCardStyle(index: number) {
-  console.log('index', index, adjustedIndex(index))
   const yOffset = adjustedIndex(index) * 25
   const scale = 1.0 + adjustedIndex(index) * 0.1
 
   return `translate-x-0 translate-y-[${yOffset}px] scale-[${scale}]`
 }
 
-function removeCard() {
-  wow()
-  cards.value = cards.value?.slice(0, -1)
-}
+watch([currentRound, rightAnswered], (newValue, oldValue) => {
+  const [newRound] = newValue
+  const [oldRound] = oldValue
+  if (newRound !== oldRound) {
+    cards.value = cards.value?.slice(0, -1)
+    console.log('cards after', cards.value)
+  }
+})
 </script>
 
 <style>

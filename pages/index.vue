@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <CardStackNew :covers="getRightAlbumCovers?.reverse()" class="ml-40" />
+      <CardStackNew :covers="getRightAlbumCovers" class="ml-16 mt-10" />
       <div
         class="absolute mt-[350px] mx-auto top-0 left-0 bottom-0 right-0 w-[80%]"
       >
@@ -34,6 +34,7 @@
 </template>
 
 <script lang="ts" setup>
+import confetti from 'canvas-confetti'
 import type { Album } from '~/components/AnswerOptions.vue'
 
 const { data: quizAlbums } = await useFetch<Array<Album[]>>('/q')
@@ -60,14 +61,15 @@ function getRightAlbum(albums: Album[] | undefined): Album {
 }
 
 function reload() {
-  rightAnswered.value = 'yet'
-  currentRound.value = 0
-  quizAlbums.value = null
-  fetch('/q')
-    .then((res) => res.json())
-    .then((data) => {
-      quizAlbums.value = data
-    })
+  // rightAnswered.value = 'yet'
+  // currentRound.value = 0
+  // quizAlbums.value = null
+  // fetch('/q')
+  //   .then((res) => res.json())
+  //   .then((data) => {
+  //     quizAlbums.value = data
+  //   })
+  window.location.reload()
 }
 
 function pickAlbum(index: string) {
@@ -77,18 +79,31 @@ function pickAlbum(index: string) {
     pickedAlbum.value ===
       getRightAlbum(quizAlbums.value?.[currentRound.value]).index
   ) {
+    wow()
     rightAnswered.value = 'yes'
     rightAnswers.value += 1
     setTimeout(() => {
       rightAnswered.value = 'yet'
       currentRound.value += 1
-    }, 3000)
+    }, 2000)
   } else {
     rightAnswered.value = 'no'
     setTimeout(() => {
       rightAnswered.value = 'yet'
       currentRound.value += 1
-    }, 3000)
+    }, 2000)
   }
+}
+function randomInRange(min: number, max: number) {
+  return Math.random() * (max - min) + min
+}
+
+function wow() {
+  confetti({
+    origin: { y: 0.4, x: 0.2 },
+    angle: randomInRange(55, 125),
+    spread: randomInRange(50, 70),
+    particleCount: randomInRange(50, 100),
+  })
 }
 </script>
