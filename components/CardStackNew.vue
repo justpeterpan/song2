@@ -1,17 +1,17 @@
 <template>
-  <div class="container">
+  <div class="absolute top-0 right-0 bottom-0 left-0 mx-auto w-[50%] h-[50%]">
     <ClientOnly>
-      <TransitionGroup tag="div" class="relative w-fit" name="list">
+      <TransitionGroup tag="div" class="relative" name="list">
         <div v-for="(card, index) in cards" :key="card">
           <img
-            class="absolute min-w-80 min-h-80 rounded-2xl album transition-all duration-500 ease-in-out"
+            class="absolute min-w-56 min-h-56 rounded-2xl album transition-all duration-500 ease-in-out"
             :class="getCardStyle(index)"
             :key="card"
             :src="card"
             alt="Album cover"
           />
           <div
-            class="absolute min-w-80 min-h-80 rounded-2xl album transition-all duration-500 ease-in-out"
+            class="absolute min-w-56 min-h-56 rounded-2xl album transition-all duration-500 ease-in-out"
             :class="getCardStyle(index) + ' ' + backDrop(index)"
             :key="card"
           />
@@ -62,12 +62,6 @@ const adjustedIndex = (index: number) =>
   index + (initialCount! - cards.value?.length!)
 
 function backDrop(index: number) {
-  console.log(
-    rightAnswered.value,
-    cards.value?.length! - 1,
-    index,
-    rightAnswered.value === 'yes' && index === cards.value?.length! - 1
-  )
   if (index !== cards.value?.length! - 1) return 'backdrop-blur-xl'
   const hasBackdrop =
     rightAnswered.value === 'yet' && index === cards.value?.length! - 1
