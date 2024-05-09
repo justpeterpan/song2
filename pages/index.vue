@@ -1,41 +1,35 @@
 <template>
   <div>
-    <div>
-      <CardStackNew :covers="getRightAlbumCovers" class="ml-16 mt-10" />
-      <div
-        class="absolute mt-[350px] mx-auto top-0 left-0 bottom-0 right-0 w-[80%]"
-      >
-        <div v-if="quizAlbums?.length" class="mt-60">
-          <div
-            v-for="album of currentQuizAlbums"
-            :key="album.index"
-            class="min-w-full sm:min-w-[350px] max-w-[350px] mb-2"
-          >
-            <AnswerOptions
-              :album="album"
-              :right-album="getRightAlbum(currentQuizAlbums)"
-              @click="pickAlbum(album.index)"
-            />
-          </div>
+    <div class="relative w-[80.5%]">
+      <CardStackNew :covers="getRightAlbumCovers" />
+    </div>
+    <div class="pt-[370px] m-2">
+      <div v-if="quizAlbums?.length">
+        <div v-for="album of currentQuizAlbums" :key="album.index">
+          <AnswerOption
+            :album="album"
+            :right-album="getRightAlbum(currentQuizAlbums)"
+            @click="pickAlbum(album.index)"
+          />
         </div>
-        <UButton
-          icon="i-heroicons-arrow-path"
-          variant="solid"
-          color="violet"
-          class="mt-4 w-full mb-4 sm:mb-0 min-w-full sm:min-w-[350px] max-w-[350px]"
-          size="xl"
-          block
-          @click="reload"
-          >Refresh</UButton
-        >
       </div>
+      <UButton
+        icon="i-heroicons-arrow-path"
+        variant="outline"
+        color="rose"
+        class="mt-4 w-full mb-4 sm:mb-0 min-w-full sm:min-w-[350px] max-w-[350px]"
+        size="xl"
+        block
+        @click="reload"
+        >Refresh</UButton
+      >
     </div>
   </div>
 </template>
 
 <script lang="ts" setup>
 import confetti from 'canvas-confetti'
-import type { Album } from '~/components/AnswerOptions.vue'
+import type { Album } from '~/components/AnswerOption.vue'
 
 const { data: quizAlbums } = await useFetch<Array<Album[]>>('/q')
 const rightAnswered = useRightAnswered()
@@ -61,14 +55,6 @@ function getRightAlbum(albums: Album[] | undefined): Album {
 }
 
 function reload() {
-  // rightAnswered.value = 'yet'
-  // currentRound.value = 0
-  // quizAlbums.value = null
-  // fetch('/q')
-  //   .then((res) => res.json())
-  //   .then((data) => {
-  //     quizAlbums.value = data
-  //   })
   window.location.reload()
 }
 
