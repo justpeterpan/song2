@@ -1,5 +1,5 @@
 <template>
-  <div class="absolute top-0 right-0 bottom-0 left-0 mx-auto w-[50%] h-[50%]">
+  <div>
     <ClientOnly>
       <TransitionGroup tag="div" class="relative" name="list">
         <div v-for="(card, index) in cards" :key="card">
@@ -11,7 +11,7 @@
             alt="Album cover"
           />
           <div
-            class="absolute min-w-56 min-h-56 rounded-2xl album transition-all duration-500 ease-in-out"
+            class="absolute min-w-[226px] border border-neutral-400/60 min-h-[226px] rounded-2xl album transition-all duration-500 ease-in-out"
             :class="getCardStyle(index) + ' ' + backDrop(index)"
             :key="card"
           />
@@ -83,7 +83,6 @@ watch([currentRound, rightAnswered], (newValue, oldValue) => {
   const [oldRound] = oldValue
   if (newRound !== oldRound) {
     cards.value = cards.value?.slice(0, -1)
-    console.log('cards after', cards.value)
   }
 })
 </script>

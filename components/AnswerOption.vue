@@ -5,8 +5,8 @@
     class="w-full text-left"
     size="xl"
   >
-    {{ props.album.artist }} - {{ props.album.title }}</UButton
-  >
+    {{ props.album.artist }} - {{ props.album.title }}
+  </UButton>
 </template>
 
 <script lang="ts" setup>
