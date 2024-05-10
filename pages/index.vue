@@ -1,11 +1,20 @@
 <template>
   <div>
-    <div class="relative w-[80.5%]">
-      <CardStackNew :covers="getRightAlbumCovers" />
-    </div>
-    <div class="pt-[370px] m-2">
+    <ClientOnly>
+      <div class="relative mt-4" :style="{ marginLeft: 'calc(50% - 224px/2)' }">
+        <CardStackNew :covers="getRightAlbumCovers" />
+      </div>
+    </ClientOnly>
+    <div class="pt-[370px] mx-8">
+      <div class="text-white text-center text-xl font-semibold pb-4">
+        {{ rightAnswers }} / {{ quizAlbums?.length }}
+      </div>
       <div v-if="quizAlbums?.length">
-        <div v-for="album of currentQuizAlbums" :key="album.index">
+        <div
+          v-for="album of currentQuizAlbums"
+          :key="album.index"
+          class="pb-[2px]"
+        >
           <AnswerOption
             :album="album"
             :right-album="getRightAlbum(currentQuizAlbums)"
@@ -14,14 +23,14 @@
         </div>
       </div>
       <UButton
+        v-if="currentRound >= (quizAlbums?.length ?? 0)"
         icon="i-heroicons-arrow-path"
         variant="outline"
         color="rose"
-        class="mt-4 w-full mb-4 sm:mb-0 min-w-full sm:min-w-[350px] max-w-[350px]"
         size="xl"
         block
         @click="reload"
-        >Refresh</UButton
+        >restart</UButton
       >
     </div>
   </div>
