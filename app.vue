@@ -8,7 +8,7 @@
 useHead({
   title: 'Song2',
   bodyAttrs: {
-    class: 'bg-[#131313] h-screen',
+    class: 'bg-neutral-800 h-screen',
   },
 })
 </script>
