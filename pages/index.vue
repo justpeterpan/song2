@@ -17,6 +17,7 @@
           <AnswerOption
             :album="album"
             :right-album="getRightAlbum(currentQuizAlbums)"
+            :disabled="rightAnswered !== 'yet'"
             @click="pickAlbum(album.index)"
           />
         </div>
