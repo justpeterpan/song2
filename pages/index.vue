@@ -10,7 +10,7 @@
         <CoverStack :covers="getRightAlbumCovers" />
       </div>
     </ClientOnly>
-    <div class="pt-[370px] md:pt-0 mx-8 md:w-96 md:mx-auto">
+    <div class="pt-[370px] md:pt-10 mx-8 md:w-96 md:mx-auto flex flex-col justify-between h-72">
       <div class="text-white text-center text-xl font-semibold pb-4">{{ rightAnswers }} / {{ quizAlbums?.length }}</div>
       <div v-if="quizAlbums?.length">
         <div v-for="album of currentQuizAlbums" :key="album.index" class="pb-[2px]">
@@ -22,6 +22,18 @@
           />
         </div>
       </div>
+      <div class="h-2 my-10 bg-gradient-to-r rounded-md from-yellow-400 to-neutral-600" :class="progressClasses()">
+        <div class="flex justify-between">
+          <div
+            v-for="(_, index) in 4"
+            :key="index"
+            class="h-8 w-8 text-center text-black -mt-3 pt-1 rounded-[50%]"
+            :class="[currentRound >= index ? 'bg-yellow-400' : 'bg-neutral-600']"
+          >
+            {{ index + 1 }}
+          </div>
+        </div>
+      </div>
       <UButton
         v-if="currentRound >= (quizAlbums?.length ?? 0)"
         icon="i-heroicons-arrow-path"
@@ -30,8 +42,9 @@
         size="xl"
         block
         @click="reload"
-        >restart</UButton
       >
+        restart
+      </UButton>
     </div>
   </div>
 </template>
@@ -112,5 +125,22 @@ function wow() {
     spread: randomInRange(50, 70),
     particleCount: randomInRange(50, 100),
   });
+}
+
+function progressClasses() {
+  switch (currentRound.value) {
+    case 0:
+      return 'from-0% to-0%';
+    case 1:
+      return 'from-[33%] to-[33%]';
+    case 2:
+      return 'from-[66%] to-[66%]';
+    case 3:
+      return 'from-[99%] to-[99%]';
+    case 4:
+      return 'from-100% to-100%';
+    default:
+      break;
+  }
 }
 </script>
