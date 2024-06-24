@@ -5,6 +5,9 @@ export default defineNuxtConfig({
   colorMode: {
     preference: 'light',
   },
+  future: {
+    compatibilityVersion: 4,
+  },
   tailwindcss: {
     config: {
       safelist: [
@@ -19,4 +22,4 @@ export default defineNuxtConfig({
       ],
     },
   },
-})
+});
