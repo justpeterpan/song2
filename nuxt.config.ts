@@ -2,12 +2,15 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/ui'],
+
   colorMode: {
     preference: 'light',
   },
+
   future: {
     compatibilityVersion: 4,
   },
+
   tailwindcss: {
     config: {
       safelist: [
@@ -22,4 +25,6 @@ export default defineNuxtConfig({
       ],
     },
   },
+
+  compatibilityDate: '2024-07-12',
 });
